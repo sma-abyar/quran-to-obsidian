@@ -1,1 +1,37 @@
-{"verses":[{"id":6126,"verseNumber":1,"verseKey":"97:1","arabic":"إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ","english":"Indeed, ˹it is˺ We ˹Who˺ sent this ˹Quran˺ down on the Night of Glory.<sup foot_note=77633>1</sup>"},{"id":6127,"verseNumber":2,"verseKey":"97:2","arabic":"وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ","english":"And what will make you realize what the Night of Glory is?"},{"id":6128,"verseNumber":3,"verseKey":"97:3","arabic":"لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ","english":"The Night of Glory is better than a thousand months."},{"id":6129,"verseNumber":4,"verseKey":"97:4","arabic":"تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ","english":"That night the angels and the ˹holy˺ spirit<sup foot_note=77634>1</sup> descend, by the permission of their Lord, for every ˹decreed˺ matter."},{"id":6130,"verseNumber":5,"verseKey":"97:5","arabic":"سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ","english":"It is all peace until the break of dawn."}]}
+[
+  {
+    "id": 97001,
+    "verseNumber": 1,
+    "verseKey": "97:1",
+    "arabic": "إِنَّا أَنْزَلْناهُ فی‏ لَیْلَةِ الْقَدْرِ",
+    "persian": "ما [قرآن را] در شب قدر نازل کردیم."
+  },
+  {
+    "id": 97002,
+    "verseNumber": 2,
+    "verseKey": "97:2",
+    "arabic": "وَ ما أَدْراکَ ما لَیْلَةُ الْقَدْرِ",
+    "persian": "و از شب قدر، چه آگاهت کرد."
+  },
+  {
+    "id": 97003,
+    "verseNumber": 3,
+    "verseKey": "97:3",
+    "arabic": "لَیْلَةُ الْقَدْرِ خَیْرٌ مِنْ أَلْفِ شَهْرٍ",
+    "persian": "شب قدر از هزار ماه ارجمندتر است."
+  },
+  {
+    "id": 97004,
+    "verseNumber": 4,
+    "verseKey": "97:4",
+    "arabic": "تَنَزَّلُ الْمَلائِکَةُ وَ الرُّوحُ فیها بِإِذْنِ رَبِّهِمْ مِنْ کُلِّ أَمْرٍ",
+    "persian": "در آن [شب‌] فرشتگان، با روح، به فرمان پروردگارشان، برای هر کاری [که مقرّر شده است‌] فرود آیند؛"
+  },
+  {
+    "id": 97005,
+    "verseNumber": 5,
+    "verseKey": "97:5",
+    "arabic": "سَلامٌ هِیَ حَتَّى مَطْلَعِ الْفَجْرِ",
+    "persian": "[آن شب‌] تا دمِ صبح، صلح و سلام است."
+  }
+]

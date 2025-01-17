@@ -1,1 +1,135 @@
-{"verses":[{"id":5830,"verseNumber":1,"verseKey":"82:1","arabic":" إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ","english":"When the sky splits open,"},{"id":5831,"verseNumber":2,"verseKey":"82:2","arabic":"وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ","english":"and when the stars fall away,"},{"id":5832,"verseNumber":3,"verseKey":"82:3","arabic":"وَإِذَا ٱلْبِحَارُ فُجِّرَتْ","english":"and when the seas burst forth,"},{"id":5833,"verseNumber":4,"verseKey":"82:4","arabic":"وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ","english":"and when the graves spill out,"},{"id":5834,"verseNumber":5,"verseKey":"82:5","arabic":"عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ","english":"˹then˺ each soul will know what it has sent forth or left behind."},{"id":5835,"verseNumber":6,"verseKey":"82:6","arabic":"يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ","english":"O humanity! What has emboldened you against your Lord, the Most Generous,"},{"id":5836,"verseNumber":7,"verseKey":"82:7","arabic":"ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ","english":"Who created you, fashioned you, and perfected your design,"},{"id":5837,"verseNumber":8,"verseKey":"82:8","arabic":"فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ","english":"moulding you in whatever form He willed?"},{"id":5838,"verseNumber":9,"verseKey":"82:9","arabic":"كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ","english":"But no! In fact, you deny the ˹final˺ Judgment,"},{"id":5839,"verseNumber":10,"verseKey":"82:10","arabic":"وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ","english":"while you are certainly observed by vigilant,"},{"id":5840,"verseNumber":11,"verseKey":"82:11","arabic":"كِرَامًا كَـٰتِبِينَ","english":"honourable angels, recording ˹everything˺."},{"id":5841,"verseNumber":12,"verseKey":"82:12","arabic":"يَعْلَمُونَ مَا تَفْعَلُونَ","english":"They know whatever you do."},{"id":5842,"verseNumber":13,"verseKey":"82:13","arabic":"إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ","english":"Indeed, the virtuous will be in bliss,"},{"id":5843,"verseNumber":14,"verseKey":"82:14","arabic":"وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ","english":"and the wicked will be in Hell,"},{"id":5844,"verseNumber":15,"verseKey":"82:15","arabic":"يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ","english":"burning in it on Judgment Day,"},{"id":5845,"verseNumber":16,"verseKey":"82:16","arabic":"وَمَا هُمْ عَنْهَا بِغَآئِبِينَ","english":"and they will have no escape from it."},{"id":5846,"verseNumber":17,"verseKey":"82:17","arabic":"وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ","english":"What will make you realize what Judgment Day is?"},{"id":5847,"verseNumber":18,"verseKey":"82:18","arabic":"ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ","english":"Again, what will make you realize what Judgment Day is?"},{"id":5848,"verseNumber":19,"verseKey":"82:19","arabic":"يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ","english":"˹It is˺ the Day no soul will be of ˹any˺ benefit to another whatsoever, for all authority on that Day belongs to Allah ˹entirely˺."}]}
+[
+  {
+    "id": 82001,
+    "verseNumber": 1,
+    "verseKey": "82:1",
+    "arabic": "إِذَا السَّماءُ انْفَطَرَتْ",
+    "persian": "آنگاه که آسمان زهم بشکافد،"
+  },
+  {
+    "id": 82002,
+    "verseNumber": 2,
+    "verseKey": "82:2",
+    "arabic": "وَ إِذَا الْکَواکِبُ انْتَثَرَتْ",
+    "persian": "و آنگاه که اختران پراکنده شوند،"
+  },
+  {
+    "id": 82003,
+    "verseNumber": 3,
+    "verseKey": "82:3",
+    "arabic": "وَ إِذَا الْبِحارُ فُجِّرَتْ",
+    "persian": "و آنگاه که دریاها از جا برکنده گردند،"
+  },
+  {
+    "id": 82004,
+    "verseNumber": 4,
+    "verseKey": "82:4",
+    "arabic": "وَ إِذَا الْقُبُورُ بُعْثِرَتْ",
+    "persian": "و آنگاه که گورها زیر و زبر شوند،"
+  },
+  {
+    "id": 82005,
+    "verseNumber": 5,
+    "verseKey": "82:5",
+    "arabic": "عَلِمَتْ نَفْسٌ ما قَدَّمَتْ وَ أَخَّرَتْ",
+    "persian": "هر نفسی آنچه را پیش فرستاده و بازپس گذاشته، بداند."
+  },
+  {
+    "id": 82006,
+    "verseNumber": 6,
+    "verseKey": "82:6",
+    "arabic": "یا أَیُّهَا الْإِنْسانُ ما غَرَّکَ بِرَبِّکَ الْکَریمِ",
+    "persian": "ای انسان، چه چیز تو را در باره پروردگار بزرگوارت مغرور ساخته؟"
+  },
+  {
+    "id": 82007,
+    "verseNumber": 7,
+    "verseKey": "82:7",
+    "arabic": "الَّذی خَلَقَکَ فَسَوَّاکَ فَعَدَلَکَ",
+    "persian": "همان کس که تو را آفرید، و [اندام‌] تو را درست کرد، و [آنگاه‌] تو را سامان بخشید."
+  },
+  {
+    "id": 82008,
+    "verseNumber": 8,
+    "verseKey": "82:8",
+    "arabic": "فی‏ أَیِّ صُورَةٍ ما شاءَ رَکَّبَکَ",
+    "persian": "و به هر صورتی که خواست، تو را ترکیب کرد."
+  },
+  {
+    "id": 82009,
+    "verseNumber": 9,
+    "verseKey": "82:9",
+    "arabic": "کَلاَّ بَلْ تُکَذِّبُونَ بِالدِّینِ",
+    "persian": "با این همه، شما منکر [روز] جزایید."
+  },
+  {
+    "id": 82010,
+    "verseNumber": 10,
+    "verseKey": "82:10",
+    "arabic": "وَ إِنَّ عَلَیْکُمْ لَحافِظینَ",
+    "persian": "و قطعاً بر شما نگهبانانی [گماشته شده‌]اند:"
+  },
+  {
+    "id": 82011,
+    "verseNumber": 11,
+    "verseKey": "82:11",
+    "arabic": "کِراماً کاتِبینَ",
+    "persian": "[فرشتگان‌] بزرگواری که نویسندگان [اعمال شما] هستند؛"
+  },
+  {
+    "id": 82012,
+    "verseNumber": 12,
+    "verseKey": "82:12",
+    "arabic": "یَعْلَمُونَ ما تَفْعَلُونَ",
+    "persian": "آنچه را می‌کنید، می‌دانند."
+  },
+  {
+    "id": 82013,
+    "verseNumber": 13,
+    "verseKey": "82:13",
+    "arabic": "إِنَّ الْأَبْرارَ لَفی‏ نَعیمٍ",
+    "persian": "قطعاً نیکان به بهشت اندرند."
+  },
+  {
+    "id": 82014,
+    "verseNumber": 14,
+    "verseKey": "82:14",
+    "arabic": "وَ إِنَّ الْفُجَّارَ لَفی‏ جَحیمٍ",
+    "persian": "و بی‌شک، بدکاران در دوزخند."
+  },
+  {
+    "id": 82015,
+    "verseNumber": 15,
+    "verseKey": "82:15",
+    "arabic": "یَصْلَوْنَها یَوْمَ الدِّینِ",
+    "persian": "روز جزا در آنجا درآیند،"
+  },
+  {
+    "id": 82016,
+    "verseNumber": 16,
+    "verseKey": "82:16",
+    "arabic": "وَ ما هُمْ عَنْها بِغائِبینَ",
+    "persian": "و از آن [عذاب‌] دور نخواهند بود."
+  },
+  {
+    "id": 82017,
+    "verseNumber": 17,
+    "verseKey": "82:17",
+    "arabic": "وَ ما أَدْراکَ ما یَوْمُ الدِّینِ",
+    "persian": "و تو چه دانی که چیست روز جزا؟"
+  },
+  {
+    "id": 82018,
+    "verseNumber": 18,
+    "verseKey": "82:18",
+    "arabic": "ثُمَّ ما أَدْراکَ ما یَوْمُ الدِّینِ",
+    "persian": "باز چه دانی که چیست روز جزا؟"
+  },
+  {
+    "id": 82019,
+    "verseNumber": 19,
+    "verseKey": "82:19",
+    "arabic": "یَوْمَ لا تَمْلِکُ نَفْسٌ لِنَفْسٍ شَیْئاً وَ الْأَمْرُ یَوْمَئِذٍ لِلَّهِ",
+    "persian": "روزی که کسی برای کسی هیچ اختیاری ندارد؛ و در آن روز، فرمان از آنِ خداست."
+  }
+]

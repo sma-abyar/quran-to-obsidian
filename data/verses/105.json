@@ -1,1 +1,37 @@
-{"verses":[{"id":6189,"verseNumber":1,"verseKey":"105:1","arabic":" أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ","english":"Have you not seen ˹O Prophet˺ how your Lord dealt with the Army of the Elephant?"},{"id":6190,"verseNumber":2,"verseKey":"105:2","arabic":"أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ","english":"Did He not frustrate their scheme?"},{"id":6191,"verseNumber":3,"verseKey":"105:3","arabic":"وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ","english":"For He sent against them flocks of birds,"},{"id":6192,"verseNumber":4,"verseKey":"105:4","arabic":"تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ","english":"that pelted them with stones of baked clay,"},{"id":6193,"verseNumber":5,"verseKey":"105:5","arabic":"فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ","english":"leaving them like chewed up straw.<sup foot_note=77639>1</sup> "}]}
+[
+  {
+    "id": 105001,
+    "verseNumber": 1,
+    "verseKey": "105:1",
+    "arabic": "أَ لَمْ تَرَ کَیْفَ فَعَلَ رَبُّکَ بِأَصْحابِ الْفیلِ",
+    "persian": "مگر ندیدی پروردگارت با پیلداران چه کرد؟"
+  },
+  {
+    "id": 105002,
+    "verseNumber": 2,
+    "verseKey": "105:2",
+    "arabic": "أَ لَمْ یَجْعَلْ کَیْدَهُمْ فی‏ تَضْلیلٍ",
+    "persian": "آیا نیرنگشان را بر باد نداد؟"
+  },
+  {
+    "id": 105003,
+    "verseNumber": 3,
+    "verseKey": "105:3",
+    "arabic": "وَ أَرْسَلَ عَلَیْهِمْ طَیْراً أَبابیلَ",
+    "persian": "و بر سر آنها، دسته دسته پرندگانی «اَبابیل» فرستاد."
+  },
+  {
+    "id": 105004,
+    "verseNumber": 4,
+    "verseKey": "105:4",
+    "arabic": "تَرْمیهِمْ بِحِجارَةٍ مِنْ سِجِّیلٍ",
+    "persian": "[که‌] بر آنان سنگهایی از گل [سخت‌] می‌افکندند."
+  },
+  {
+    "id": 105005,
+    "verseNumber": 5,
+    "verseKey": "105:5",
+    "arabic": "فَجَعَلَهُمْ کَعَصْفٍ مَأْکُولٍ",
+    "persian": "و [سرانجام، خدا] آنان را مانند کاه جویده‌شده گردانید."
+  }
+]

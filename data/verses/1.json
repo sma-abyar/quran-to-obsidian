@@ -1,1 +1,51 @@
-{"verses":[{"id":1,"verseNumber":1,"verseKey":"1:1","arabic":"بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ","english":"In the Name of Allah—the Most Compassionate, Most Merciful."},{"id":2,"verseNumber":2,"verseKey":"1:2","arabic":"ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ","english":"All praise is for Allah—Lord of all worlds,<sup foot_note=76373>1</sup>"},{"id":3,"verseNumber":3,"verseKey":"1:3","arabic":"ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ","english":"the Most Compassionate, Most Merciful,"},{"id":4,"verseNumber":4,"verseKey":"1:4","arabic":"مَـٰلِكِ يَوْمِ ٱلدِّينِ","english":"Master of the Day of Judgment."},{"id":5,"verseNumber":5,"verseKey":"1:5","arabic":"إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ","english":"You ˹alone˺ we worship and You ˹alone˺ we ask for help."},{"id":6,"verseNumber":6,"verseKey":"1:6","arabic":"ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ","english":"Guide us along the Straight Path,"},{"id":7,"verseNumber":7,"verseKey":"1:7","arabic":"صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ","english":"the Path of those You have blessed—not those You are displeased with, or those who are astray.<sup foot_note=76374>1</sup> "}]}
+[
+  {
+    "id": 1001,
+    "verseNumber": 1,
+    "verseKey": "1:1",
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمنِ الرَّحیمِ",
+    "persian": "به نام خداوند رحمتگر مهربان"
+  },
+  {
+    "id": 1002,
+    "verseNumber": 2,
+    "verseKey": "1:2",
+    "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعالَمینَ",
+    "persian": "ستایش خدایی را که پروردگار جهانیان،"
+  },
+  {
+    "id": 1003,
+    "verseNumber": 3,
+    "verseKey": "1:3",
+    "arabic": "الرَّحْمنِ الرَّحیمِ",
+    "persian": "رحمتگر مهربان،"
+  },
+  {
+    "id": 1004,
+    "verseNumber": 4,
+    "verseKey": "1:4",
+    "arabic": "مالِکِ یَوْمِ الدِّینِ",
+    "persian": "[و] خداوند روز جزاست."
+  },
+  {
+    "id": 1005,
+    "verseNumber": 5,
+    "verseKey": "1:5",
+    "arabic": "إِیَّاکَ نَعْبُدُ وَ إِیَّاکَ نَسْتَعینُ",
+    "persian": "[بار الها] تنها تو را می‌پرستیم، و تنها از تو یاری می‌جوییم."
+  },
+  {
+    "id": 1006,
+    "verseNumber": 6,
+    "verseKey": "1:6",
+    "arabic": "اهْدِنَا الصِّراطَ الْمُسْتَقیمَ",
+    "persian": "ما را به راه راست هدایت فرما،"
+  },
+  {
+    "id": 1007,
+    "verseNumber": 7,
+    "verseKey": "1:7",
+    "arabic": "صِراطَ الَّذینَ أَنْعَمْتَ عَلَیْهِمْ غَیْرِ الْمَغْضُوبِ عَلَیْهِمْ وَ لاَ الضَّالِّینَ",
+    "persian": "راه آنان که گرامی‌شان داشته‌ای، نه [راه‌] مغضوبان، و نه [راه‌] گمراهان."
+  }
+]

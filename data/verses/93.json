@@ -1,1 +1,79 @@
-{"verses":[{"id":6080,"verseNumber":1,"verseKey":"93:1","arabic":" وَٱلضُّحَىٰ","english":"By the morning sunlight,"},{"id":6081,"verseNumber":2,"verseKey":"93:2","arabic":"وَٱلَّيْلِ إِذَا سَجَىٰ","english":"and the night when it falls still!"},{"id":6082,"verseNumber":3,"verseKey":"93:3","arabic":"مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ","english":"Your Lord ˹O Prophet˺ has not abandoned you, nor has He become hateful ˹of you˺."},{"id":6083,"verseNumber":4,"verseKey":"93:4","arabic":"وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ","english":"And the next life is certainly far better for you than this one."},{"id":6084,"verseNumber":5,"verseKey":"93:5","arabic":"وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ","english":"And ˹surely˺ your Lord will give so much to you that you will be pleased."},{"id":6085,"verseNumber":6,"verseKey":"93:6","arabic":"أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ","english":"Did He not find you as an orphan then sheltered you?"},{"id":6086,"verseNumber":7,"verseKey":"93:7","arabic":"وَوَجَدَكَ ضَآلًّا فَهَدَىٰ","english":"Did He not find you unguided then guided you?"},{"id":6087,"verseNumber":8,"verseKey":"93:8","arabic":"وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ","english":"And did He not find you needy then satisfied your needs?"},{"id":6088,"verseNumber":9,"verseKey":"93:9","arabic":"فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ","english":"So do not oppress the orphan,"},{"id":6089,"verseNumber":10,"verseKey":"93:10","arabic":"وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ","english":"nor repulse the beggar.<sup foot_note=77625>1</sup>"},{"id":6090,"verseNumber":11,"verseKey":"93:11","arabic":"وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ","english":"And proclaim the blessings of your Lord."}]}
+[
+  {
+    "id": 93001,
+    "verseNumber": 1,
+    "verseKey": "93:1",
+    "arabic": "وَ الضُّحى‏",
+    "persian": "سوگند به روشنایی روز،"
+  },
+  {
+    "id": 93002,
+    "verseNumber": 2,
+    "verseKey": "93:2",
+    "arabic": "وَ اللَّیْلِ إِذا سَجى‏",
+    "persian": "سوگند به شب چون آرام گیرد،"
+  },
+  {
+    "id": 93003,
+    "verseNumber": 3,
+    "verseKey": "93:3",
+    "arabic": "ما وَدَّعَکَ رَبُّکَ وَ ما قَلى‏",
+    "persian": "[که‌] پروردگارت تو را وانگذاشته، و دشمن نداشته است."
+  },
+  {
+    "id": 93004,
+    "verseNumber": 4,
+    "verseKey": "93:4",
+    "arabic": "وَ لَلْآخِرَةُ خَیْرٌ لَکَ مِنَ الْأُولى‏",
+    "persian": "و قطعاً آخرت برای تو از دنیا نیکوتر خواهد بود."
+  },
+  {
+    "id": 93005,
+    "verseNumber": 5,
+    "verseKey": "93:5",
+    "arabic": "وَ لَسَوْفَ یُعْطیکَ رَبُّکَ فَتَرْضى‏",
+    "persian": "و بزودی پروردگارت تو را عطا خواهد داد، تا خرسند گردی."
+  },
+  {
+    "id": 93006,
+    "verseNumber": 6,
+    "verseKey": "93:6",
+    "arabic": "أَ لَمْ یَجِدْکَ یَتیماً فَآوى‏",
+    "persian": "مگر نه تو را یتیم یافت، پس پناه داد؟"
+  },
+  {
+    "id": 93007,
+    "verseNumber": 7,
+    "verseKey": "93:7",
+    "arabic": "وَ وَجَدَکَ ضَالاًّ فَهَدى‏",
+    "persian": "و تو را سرگشته یافت، پس هدایت کرد؟"
+  },
+  {
+    "id": 93008,
+    "verseNumber": 8,
+    "verseKey": "93:8",
+    "arabic": "وَ وَجَدَکَ عائِلاً فَأَغْنى‏",
+    "persian": "و تو را تنگدست یافت و بی‌نیاز گردانید؟"
+  },
+  {
+    "id": 93009,
+    "verseNumber": 9,
+    "verseKey": "93:9",
+    "arabic": "فَأَمَّا الْیَتیمَ فَلا تَقْهَرْ",
+    "persian": "و اما [تو نیز به پاس نعمت ما] یتیم را میازار،"
+  },
+  {
+    "id": 93010,
+    "verseNumber": 10,
+    "verseKey": "93:10",
+    "arabic": "وَ أَمَّا السَّائِلَ فَلا تَنْهَرْ",
+    "persian": "و گدا را مران،"
+  },
+  {
+    "id": 93011,
+    "verseNumber": 11,
+    "verseKey": "93:11",
+    "arabic": "وَ أَمَّا بِنِعْمَةِ رَبِّکَ فَحَدِّثْ",
+    "persian": "و از نعمت پروردگار خویش [با مردم‌] سخن گوی."
+  }
+]

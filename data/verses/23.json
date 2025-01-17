@@ -1,1 +1,828 @@
-{"verses":[{"id":2674,"verseNumber":1,"verseKey":"23:1","arabic":" قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ","english":"Successful indeed are the believers:"},{"id":2675,"verseNumber":2,"verseKey":"23:2","arabic":"ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَـٰشِعُونَ","english":"those who humble themselves in prayer;"},{"id":2676,"verseNumber":3,"verseKey":"23:3","arabic":"وَٱلَّذِينَ هُمْ عَنِ ٱللَّغْوِ مُعْرِضُونَ","english":"those who avoid idle talk;"},{"id":2677,"verseNumber":4,"verseKey":"23:4","arabic":"وَٱلَّذِينَ هُمْ لِلزَّكَوٰةِ فَـٰعِلُونَ","english":"those who pay alms-tax;<sup foot_note=77013>1</sup>"},{"id":2678,"verseNumber":5,"verseKey":"23:5","arabic":"وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَـٰفِظُونَ","english":"those who guard their chastity<sup foot_note=77014>1</sup>"},{"id":2679,"verseNumber":6,"verseKey":"23:6","arabic":"إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ","english":"except with their wives or those ˹bondwomen˺ in their possession,<sup foot_note=77015>1</sup> for then they are free from blame,"},{"id":2680,"verseNumber":7,"verseKey":"23:7","arabic":"فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْعَادُونَ","english":"but whoever seeks beyond that are the transgressors;"},{"id":2681,"verseNumber":8,"verseKey":"23:8","arabic":"وَٱلَّذِينَ هُمْ لِأَمَـٰنَـٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ","english":"˹the believers are also˺ those who are true to their trusts and covenants;"},{"id":2682,"verseNumber":9,"verseKey":"23:9","arabic":"وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَٰتِهِمْ يُحَافِظُونَ","english":"and those who are ˹properly˺ observant of their prayers."},{"id":2683,"verseNumber":10,"verseKey":"23:10","arabic":"أُو۟لَـٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ","english":"These are the ones who will be awarded"},{"id":2684,"verseNumber":11,"verseKey":"23:11","arabic":"ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَـٰلِدُونَ","english":"Paradise as their own.<sup foot_note=77016>1</sup> They will be there forever."},{"id":2685,"verseNumber":12,"verseKey":"23:12","arabic":"وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ مِن سُلَـٰلَةٍ مِّن طِينٍ","english":"And indeed, We created humankind<sup foot_note=77017>1</sup> from an extract of clay,"},{"id":2686,"verseNumber":13,"verseKey":"23:13","arabic":"ثُمَّ جَعَلْنَـٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ","english":"then placed each ˹human˺ as a sperm-drop<sup foot_note=77018>1</sup> in a secure place,"},{"id":2687,"verseNumber":14,"verseKey":"23:14","arabic":"ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ","english":"then We developed the drop into a clinging clot ˹of blood˺, then developed the clot into a lump ˹of flesh˺, then developed the lump into bones, then clothed the bones with flesh, then We brought it into being as a new creation.<sup foot_note=77019>1</sup> So Blessed is Allah, the Best of Creators."},{"id":2688,"verseNumber":15,"verseKey":"23:15","arabic":"ثُمَّ إِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ","english":"After that you will surely die,"},{"id":2689,"verseNumber":16,"verseKey":"23:16","arabic":"ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَـٰمَةِ تُبْعَثُونَ","english":"then on the Day of Judgment you will be resurrected."},{"id":2690,"verseNumber":17,"verseKey":"23:17","arabic":"وَلَقَدْ خَلَقْنَا فَوْقَكُمْ سَبْعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلْخَلْقِ غَـٰفِلِينَ","english":"And indeed, We created above you seven levels ˹of heaven˺. We are never unmindful of ˹Our˺ creation."},{"id":2691,"verseNumber":18,"verseKey":"23:18","arabic":"وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَسْكَنَّـٰهُ فِى ٱلْأَرْضِ ۖ وَإِنَّا عَلَىٰ ذَهَابٍۭ بِهِۦ لَقَـٰدِرُونَ","english":"We send down rain from the sky in perfect measure, causing it to soak into the earth. And We are surely able to take it away."},{"id":2692,"verseNumber":19,"verseKey":"23:19","arabic":"فَأَنشَأْنَا لَكُم بِهِۦ جَنَّـٰتٍ مِّن نَّخِيلٍ وَأَعْنَـٰبٍ لَّكُمْ فِيهَا فَوَٰكِهُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ","english":"With it We produce for you gardens of palm trees and grapevines, in which there are abundant fruits, and from which you may eat,"},{"id":2693,"verseNumber":20,"verseKey":"23:20","arabic":"وَشَجَرَةً تَخْرُجُ مِن طُورِ سَيْنَآءَ تَنۢبُتُ بِٱلدُّهْنِ وَصِبْغٍ لِّلْـَٔاكِلِينَ","english":"as well as ˹olive˺ trees which grow at Mount Sinai, providing oil and a condiment to eat."},{"id":2694,"verseNumber":21,"verseKey":"23:21","arabic":"وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهَا وَلَكُمْ فِيهَا مَنَـٰفِعُ كَثِيرَةٌ وَمِنْهَا تَأْكُلُونَ","english":"And there is certainly a lesson for you in cattle, from whose bellies We give you ˹milk˺ to drink, and in them are many other benefits for you, and from them you may eat."},{"id":2695,"verseNumber":22,"verseKey":"23:22","arabic":"وَعَلَيْهَا وَعَلَى ٱلْفُلْكِ تُحْمَلُونَ","english":"And you are carried upon ˹some of˺ them and upon ships."},{"id":2696,"verseNumber":23,"verseKey":"23:23","arabic":"وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ","english":"Indeed, We sent Noah to his people. He declared, “O my people! Worship Allah ˹alone˺. You have no god other than Him. Will you not then fear ˹Him˺?”"},{"id":2697,"verseNumber":24,"verseKey":"23:24","arabic":"فَقَالَ ٱلْمَلَؤُا۟ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا هَـٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يُرِيدُ أَن يَتَفَضَّلَ عَلَيْكُمْ وَلَوْ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَـٰٓئِكَةً مَّا سَمِعْنَا بِهَـٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ","english":"But the disbelieving chiefs of his people said ˹to the masses˺, “This is only a human like you, who wants to be superior to you. Had Allah willed, He could have easily sent down angels ˹instead˺. We have never heard of this in ˹the history of˺ our forefathers."},{"id":2698,"verseNumber":25,"verseKey":"23:25","arabic":"إِنْ هُوَ إِلَّا رَجُلٌۢ بِهِۦ جِنَّةٌ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِينٍ","english":"He is simply insane, so bear with him for a while.”<sup foot_note=77020>1</sup> "},{"id":2699,"verseNumber":26,"verseKey":"23:26","arabic":"قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ","english":"Noah prayed, “My Lord! Help me, because they have denied ˹me˺.”"},{"id":2700,"verseNumber":27,"verseKey":"23:27","arabic":"فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ ۙ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ ۖ وَلَا تُخَـٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ ۖ إِنَّهُم مُّغْرَقُونَ","english":"So We inspired him: “Build the Ark under Our ˹watchful˺ Eyes and directions. Then when Our command comes and the oven bursts ˹with water˺,<sup foot_note=77021>1</sup> take on board a pair from every species along with your family—except those against whom the decree ˹to drown˺ has already been passed. And do not plead with Me for those who have done wrong, for they will surely be drowned.”"},{"id":2701,"verseNumber":28,"verseKey":"23:28","arabic":"فَإِذَا ٱسْتَوَيْتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلْفُلْكِ فَقُلِ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى نَجَّىٰنَا مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ","english":"Then when you and those with you have settled in the Ark, say, “All praise is for Allah, Who saved us from the wrongdoing people.”"},{"id":2702,"verseNumber":29,"verseKey":"23:29","arabic":"وَقُل رَّبِّ أَنزِلْنِى مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ ٱلْمُنزِلِينَ","english":"And pray, “My Lord! Allow me a blessed landing, for You are the best accommodator.”"},{"id":2703,"verseNumber":30,"verseKey":"23:30","arabic":"إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ وَإِن كُنَّا لَمُبْتَلِينَ","english":"Surely in this are lessons.<sup foot_note=77022>1</sup> And We ˹always˺ put ˹people˺ to the test."},{"id":2704,"verseNumber":31,"verseKey":"23:31","arabic":"ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ","english":"Then We raised another generation after them,"},{"id":2705,"verseNumber":32,"verseKey":"23:32","arabic":"فَأَرْسَلْنَا فِيهِمْ رَسُولًا مِّنْهُمْ أَنِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۖ أَفَلَا تَتَّقُونَ","english":"and sent to them a messenger from among themselves, ˹declaring,˺ “Worship Allah ˹alone˺. You have no god other than Him. Will you not then fear ˹Him˺?”"},{"id":2706,"verseNumber":33,"verseKey":"23:33","arabic":"وَقَالَ ٱلْمَلَأُ مِن قَوْمِهِ ٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَآءِ ٱلْـَٔاخِرَةِ وَأَتْرَفْنَـٰهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا مَا هَـٰذَآ إِلَّا بَشَرٌ مِّثْلُكُمْ يَأْكُلُ مِمَّا تَأْكُلُونَ مِنْهُ وَيَشْرَبُ مِمَّا تَشْرَبُونَ","english":"But the chiefs of his people—who disbelieved, denied the meeting ˹with Allah˺ in the Hereafter, and were spoiled by the worldly luxuries We had provided for them—said ˹to the masses˺, “This is only a human like you. He eats what you eat, and drinks what you drink."},{"id":2707,"verseNumber":34,"verseKey":"23:34","arabic":"وَلَئِنْ أَطَعْتُم بَشَرًا مِّثْلَكُمْ إِنَّكُمْ إِذًا لَّخَـٰسِرُونَ","english":"And if you ˹ever˺ obey a human like yourselves, then you would certainly be losers."},{"id":2708,"verseNumber":35,"verseKey":"23:35","arabic":"أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَـٰمًا أَنَّكُم مُّخْرَجُونَ","english":"Does he promise you that once you are dead and reduced to dust and bones, you will be brought forth ˹alive˺?"},{"id":2709,"verseNumber":36,"verseKey":"23:36","arabic":"۞ هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ","english":"Impossible, simply impossible is what you are promised!"},{"id":2710,"verseNumber":37,"verseKey":"23:37","arabic":"إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ","english":"There is nothing beyond our worldly life. We die, others are born, and none will be resurrected."},{"id":2711,"verseNumber":38,"verseKey":"23:38","arabic":"إِنْ هُوَ إِلَّا رَجُلٌ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا وَمَا نَحْنُ لَهُۥ بِمُؤْمِنِينَ","english":"He is no more than a man who has fabricated a lie about Allah, and we will never believe in him.”"},{"id":2712,"verseNumber":39,"verseKey":"23:39","arabic":"قَالَ رَبِّ ٱنصُرْنِى بِمَا كَذَّبُونِ","english":"The messenger prayed, “My Lord! Help me, because they have denied ˹me˺.”"},{"id":2713,"verseNumber":40,"verseKey":"23:40","arabic":"قَالَ عَمَّا قَلِيلٍ لَّيُصْبِحُنَّ نَـٰدِمِينَ","english":"Allah responded, “Soon they will be truly regretful.”"},{"id":2714,"verseNumber":41,"verseKey":"23:41","arabic":"فَأَخَذَتْهُمُ ٱلصَّيْحَةُ بِٱلْحَقِّ فَجَعَلْنَـٰهُمْ غُثَآءً ۚ فَبُعْدًا لِّلْقَوْمِ ٱلظَّـٰلِمِينَ","english":"Then the ˹mighty˺ blast overtook them with justice, and We reduced them to rubble. So away with the wrongdoing people!"},{"id":2715,"verseNumber":42,"verseKey":"23:42","arabic":"ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ","english":"Then We raised other generations after them."},{"id":2716,"verseNumber":43,"verseKey":"23:43","arabic":"مَا تَسْبِقُ مِنْ أُمَّةٍ أَجَلَهَا وَمَا يَسْتَـْٔخِرُونَ","english":"No people can advance their doom, nor can they delay it."},{"id":2717,"verseNumber":44,"verseKey":"23:44","arabic":"ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَا ۖ كُلَّ مَا جَآءَ أُمَّةً رَّسُولُهَا كَذَّبُوهُ ۚ فَأَتْبَعْنَا بَعْضَهُم بَعْضًا وَجَعَلْنَـٰهُمْ أَحَادِيثَ ۚ فَبُعْدًا لِّقَوْمٍ لَّا يُؤْمِنُونَ","english":"Then We sent Our messengers in succession: whenever a messenger came to his people, they denied him. So We destroyed them, one after the other, reducing them to ˹cautionary˺ tales. So away with the people who refuse to believe!"},{"id":2718,"verseNumber":45,"verseKey":"23:45","arabic":"ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَـٰرُونَ بِـَٔايَـٰتِنَا وَسُلْطَـٰنٍ مُّبِينٍ","english":"Then We sent Moses and his brother Aaron with Our signs<sup foot_note=77023>1</sup> and compelling proof"},{"id":2719,"verseNumber":46,"verseKey":"23:46","arabic":"إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا عَالِينَ","english":"to Pharaoh and his chiefs, but they behaved arrogantly and were a tyrannical people."},{"id":2720,"verseNumber":47,"verseKey":"23:47","arabic":"فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَـٰبِدُونَ","english":"They argued, “Will we believe in two humans, like ourselves, whose people are slaves to us?”"},{"id":2721,"verseNumber":48,"verseKey":"23:48","arabic":"فَكَذَّبُوهُمَا فَكَانُوا۟ مِنَ ٱلْمُهْلَكِينَ","english":"So they rejected them both, and ˹so˺ were among those destroyed."},{"id":2722,"verseNumber":49,"verseKey":"23:49","arabic":"وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ لَعَلَّهُمْ يَهْتَدُونَ","english":"And We certainly gave Moses the Scripture, so perhaps his people would be ˹rightly˺ guided."},{"id":2723,"verseNumber":50,"verseKey":"23:50","arabic":"وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةً وَءَاوَيْنَـٰهُمَآ إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ","english":"And We made the son of Mary and his mother a sign, and gave them refuge on high ground—a ˹suitable˺ place for rest with flowing water."},{"id":2724,"verseNumber":51,"verseKey":"23:51","arabic":"يَـٰٓأَيُّهَا ٱلرُّسُلُ كُلُوا۟ مِنَ ٱلطَّيِّبَـٰتِ وَٱعْمَلُوا۟ صَـٰلِحًا ۖ إِنِّى بِمَا تَعْمَلُونَ عَلِيمٌ","english":"O messengers! Eat from what is good and lawful, and act righteously. Indeed, I fully know what you do."},{"id":2725,"verseNumber":52,"verseKey":"23:52","arabic":"وَإِنَّ هَـٰذِهِۦٓ أُمَّتُكُمْ أُمَّةً وَٰحِدَةً وَأَنَا۠ رَبُّكُمْ فَٱتَّقُونِ","english":"Surely this religion of yours is ˹only˺ one, and I am your Lord, so fear Me ˹alone˺."},{"id":2726,"verseNumber":53,"verseKey":"23:53","arabic":"فَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ زُبُرًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ","english":"Yet the people have divided it into different sects, each rejoicing in what they have."},{"id":2727,"verseNumber":54,"verseKey":"23:54","arabic":"فَذَرْهُمْ فِى غَمْرَتِهِمْ حَتَّىٰ حِينٍ","english":"So leave them ˹O Prophet˺ in their heedlessness for a while."},{"id":2728,"verseNumber":55,"verseKey":"23:55","arabic":"أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٍ وَبَنِينَ","english":"Do they think, since We provide them with wealth and children,"},{"id":2729,"verseNumber":56,"verseKey":"23:56","arabic":"نُسَارِعُ لَهُمْ فِى ٱلْخَيْرَٰتِ ۚ بَل لَّا يَشْعُرُونَ","english":"that We hasten to ˹honour˺ them ˹with˺ all kinds of good? No! They are not aware."},{"id":2730,"verseNumber":57,"verseKey":"23:57","arabic":"إِنَّ ٱلَّذِينَ هُم مِّنْ خَشْيَةِ رَبِّهِم مُّشْفِقُونَ","english":"Surely those who tremble in awe of their Lord,"},{"id":2731,"verseNumber":58,"verseKey":"23:58","arabic":"وَٱلَّذِينَ هُم بِـَٔايَـٰتِ رَبِّهِمْ يُؤْمِنُونَ","english":"and who believe in the revelations of their Lord,"},{"id":2732,"verseNumber":59,"verseKey":"23:59","arabic":"وَٱلَّذِينَ هُم بِرَبِّهِمْ لَا يُشْرِكُونَ","english":"and who associate none with their Lord,"},{"id":2733,"verseNumber":60,"verseKey":"23:60","arabic":"وَٱلَّذِينَ يُؤْتُونَ مَآ ءَاتَوا۟ وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَٰجِعُونَ","english":"and who do whatever ˹good˺ they do with their hearts fearful, ˹knowing˺ that they will return to their Lord<sup foot_note=77024>1</sup>—"},{"id":2734,"verseNumber":61,"verseKey":"23:61","arabic":"أُو۟لَـٰٓئِكَ يُسَـٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَهُمْ لَهَا سَـٰبِقُونَ","english":"it is they who race to do good deeds, always taking the lead."},{"id":2735,"verseNumber":62,"verseKey":"23:62","arabic":"وَلَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَلَدَيْنَا كِتَـٰبٌ يَنطِقُ بِٱلْحَقِّ ۚ وَهُمْ لَا يُظْلَمُونَ","english":"We never require of any soul more than what it can afford. And with Us is a record which speaks the truth. None will be wronged."},{"id":2736,"verseNumber":63,"verseKey":"23:63","arabic":"بَلْ قُلُوبُهُمْ فِى غَمْرَةٍ مِّنْ هَـٰذَا وَلَهُمْ أَعْمَـٰلٌ مِّن دُونِ ذَٰلِكَ هُمْ لَهَا عَـٰمِلُونَ","english":"But the hearts of those ˹who disbelieve˺ are oblivious to ˹all of˺ this,<sup foot_note=77025>1</sup> and they have other ˹evil˺ deeds, opposite to this, in which they are engrossed."},{"id":2737,"verseNumber":64,"verseKey":"23:64","arabic":"حَتَّىٰٓ إِذَآ أَخَذْنَا مُتْرَفِيهِم بِٱلْعَذَابِ إِذَا هُمْ يَجْـَٔرُونَ","english":"But as soon as We seize their elite with torment, they start to cry for help."},{"id":2738,"verseNumber":65,"verseKey":"23:65","arabic":"لَا تَجْـَٔرُوا۟ ٱلْيَوْمَ ۖ إِنَّكُم مِّنَّا لَا تُنصَرُونَ","english":"˹They will be told,˺ “Do not cry for help today. Surely you will never be saved from Us."},{"id":2739,"verseNumber":66,"verseKey":"23:66","arabic":"قَدْ كَانَتْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ تَنكِصُونَ","english":"Indeed, My revelations were recited to you, but you used to back away ˹in disgust˺,"},{"id":2740,"verseNumber":67,"verseKey":"23:67","arabic":"مُسْتَكْبِرِينَ بِهِۦ سَـٰمِرًا تَهْجُرُونَ","english":"boasting of the Sacred House, and babbling ˹nonsense about the Quran˺ by night.”"},{"id":2741,"verseNumber":68,"verseKey":"23:68","arabic":"أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ أَمْ جَآءَهُم مَّا لَمْ يَأْتِ ءَابَآءَهُمُ ٱلْأَوَّلِينَ","english":"Is it because they have never contemplated the Word ˹of Allah˺? Or ˹because˺ there has come to them something that did not come to their forefathers?"},{"id":2742,"verseNumber":69,"verseKey":"23:69","arabic":"أَمْ لَمْ يَعْرِفُوا۟ رَسُولَهُمْ فَهُمْ لَهُۥ مُنكِرُونَ","english":"Or ˹because˺ they failed to recognize their Messenger, and so they denied him?"},{"id":2743,"verseNumber":70,"verseKey":"23:70","arabic":"أَمْ يَقُولُونَ بِهِۦ جِنَّةٌۢ ۚ بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَـٰرِهُونَ","english":"Or ˹because˺ they say, “He is insane?” In fact, he has come to them with the truth, but most of them are resentful of the truth."},{"id":2744,"verseNumber":71,"verseKey":"23:71","arabic":"وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَـٰوَٰتُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ بَلْ أَتَيْنَـٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ","english":"Had the truth followed their desires,<sup foot_note=77026>1</sup> the heavens, the earth, and all those in them would have certainly been corrupted. In fact, We have brought them ˹the means to˺ their glory, but they turn away from it."},{"id":2745,"verseNumber":72,"verseKey":"23:72","arabic":"أَمْ تَسْـَٔلُهُمْ خَرْجًا فَخَرَاجُ رَبِّكَ خَيْرٌ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ","english":"Or ˹is it because˺ you ˹O Prophet˺ are asking them for tribute? But the reward of your Lord is best, for He is the Best Provider."},{"id":2746,"verseNumber":73,"verseKey":"23:73","arabic":"وَإِنَّكَ لَتَدْعُوهُمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ","english":"And surely you are calling them to the Straight Path,"},{"id":2747,"verseNumber":74,"verseKey":"23:74","arabic":"وَإِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ عَنِ ٱلصِّرَٰطِ لَنَـٰكِبُونَ","english":"but those who disbelieve in the Hereafter are certainly deviating from that Path."},{"id":2748,"verseNumber":75,"verseKey":"23:75","arabic":"۞ وَلَوْ رَحِمْنَـٰهُمْ وَكَشَفْنَا مَا بِهِم مِّن ضُرٍّ لَّلَجُّوا۟ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ","english":"˹Even˺ if We had mercy on them and removed their affliction,<sup foot_note=77027>1</sup> they would still persist in their transgression, wandering blindly."},{"id":2749,"verseNumber":76,"verseKey":"23:76","arabic":"وَلَقَدْ أَخَذْنَـٰهُم بِٱلْعَذَابِ فَمَا ٱسْتَكَانُوا۟ لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ","english":"And We have already seized them with torment, but they never humbled themselves to their Lord, nor did they ˹submissively˺ appeal ˹to Him˺."},{"id":2750,"verseNumber":77,"verseKey":"23:77","arabic":"حَتَّىٰٓ إِذَا فَتَحْنَا عَلَيْهِم بَابًا ذَا عَذَابٍ شَدِيدٍ إِذَا هُمْ فِيهِ مُبْلِسُونَ","english":"But as soon as We open for them a gate of severe punishment, they will be utterly desperate."},{"id":2751,"verseNumber":78,"verseKey":"23:78","arabic":"وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ","english":"He is the One Who created for you hearing, sight, and intellect. ˹Yet˺ you hardly give any thanks."},{"id":2752,"verseNumber":79,"verseKey":"23:79","arabic":"وَهُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ","english":"And He is the One Who has dispersed you ˹all˺ over the earth, and to Him you will ˹all˺ be gathered."},{"id":2753,"verseNumber":80,"verseKey":"23:80","arabic":"وَهُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ وَلَهُ ٱخْتِلَـٰفُ ٱلَّيْلِ وَٱلنَّهَارِ ۚ أَفَلَا تَعْقِلُونَ","english":"And He is the One Who gives life and causes death, and to Him belongs the alternation of the day and night. Will you not then understand?"},{"id":2754,"verseNumber":81,"verseKey":"23:81","arabic":"بَلْ قَالُوا۟ مِثْلَ مَا قَالَ ٱلْأَوَّلُونَ","english":"But they ˹just˺ say what their predecessors said."},{"id":2755,"verseNumber":82,"verseKey":"23:82","arabic":"قَالُوٓا۟ أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ","english":"They said, “Once we are dead and reduced to dust and bones, will we really be resurrected?"},{"id":2756,"verseNumber":83,"verseKey":"23:83","arabic":"لَقَدْ وُعِدْنَا نَحْنُ وَءَابَآؤُنَا هَـٰذَا مِن قَبْلُ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ","english":"We have already been promised this, as well as our forefathers earlier. This is nothing but ancient fables!”"},{"id":2757,"verseNumber":84,"verseKey":"23:84","arabic":"قُل لِّمَنِ ٱلْأَرْضُ وَمَن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ","english":"Ask ˹them, O  Prophet˺, “To whom belong the earth and all those on it, if you ˹really˺ know?”"},{"id":2758,"verseNumber":85,"verseKey":"23:85","arabic":"سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَذَكَّرُونَ","english":"They will reply, “To Allah!” Say, “Why are you not then mindful?”"},{"id":2759,"verseNumber":86,"verseKey":"23:86","arabic":"قُلْ مَن رَّبُّ ٱلسَّمَـٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ","english":"˹And˺ ask ˹them˺, “Who is the Lord of the seven heavens and the Lord of the Mighty Throne?”"},{"id":2760,"verseNumber":87,"verseKey":"23:87","arabic":"سَيَقُولُونَ لِلَّهِ ۚ قُلْ أَفَلَا تَتَّقُونَ","english":"They will reply, “Allah.” Say, “Will you not then fear ˹Him˺?”"},{"id":2761,"verseNumber":88,"verseKey":"23:88","arabic":"قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ","english":"Ask ˹them also,˺ “In Whose Hands is the authority over all things, protecting ˹all˺ while none can protect against Him, if you ˹really˺ know?”"},{"id":2762,"verseNumber":89,"verseKey":"23:89","arabic":"سَيَقُولُونَ لِلَّهِ ۚ قُلْ فَأَنَّىٰ تُسْحَرُونَ","english":"They will reply, “Allah.” Say, “How are you then so deluded?”"},{"id":2763,"verseNumber":90,"verseKey":"23:90","arabic":"بَلْ أَتَيْنَـٰهُم بِٱلْحَقِّ وَإِنَّهُمْ لَكَـٰذِبُونَ","english":"In fact, We have brought them the truth, and they are certainly liars."},{"id":2764,"verseNumber":91,"verseKey":"23:91","arabic":"مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَـٰهٍ ۚ إِذًا لَّذَهَبَ كُلُّ إِلَـٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يَصِفُونَ","english":"Allah has never had ˹any˺ offspring, nor is there any god besides Him. Otherwise, each god would have taken away what he created, and they would have tried to dominate one another. Glorified is Allah above what they claim!"},{"id":2765,"verseNumber":92,"verseKey":"23:92","arabic":"عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ","english":"˹He is the˺ Knower of the seen and unseen. Exalted is He above what they associate ˹with Him˺."},{"id":2766,"verseNumber":93,"verseKey":"23:93","arabic":"قُل رَّبِّ إِمَّا تُرِيَنِّى مَا يُوعَدُونَ","english":"Say, ˹O Prophet,˺ “My Lord! Should You show me what they<sup foot_note=77028>1</sup> are threatened with,"},{"id":2767,"verseNumber":94,"verseKey":"23:94","arabic":"رَبِّ فَلَا تَجْعَلْنِى فِى ٱلْقَوْمِ ٱلظَّـٰلِمِينَ","english":"then, my Lord, do not count me among the wrongdoing people.”"},{"id":2768,"verseNumber":95,"verseKey":"23:95","arabic":"وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمْ لَقَـٰدِرُونَ","english":"We are indeed able to show you what We have threatened them with."},{"id":2769,"verseNumber":96,"verseKey":"23:96","arabic":"ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ ٱلسَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ","english":"Respond to evil with what is best. We know well what they claim.<sup foot_note=77029>1</sup>"},{"id":2770,"verseNumber":97,"verseKey":"23:97","arabic":"وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَـٰطِينِ","english":"And say, “My Lord! I seek refuge in You from the temptations of the devils."},{"id":2771,"verseNumber":98,"verseKey":"23:98","arabic":"وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ","english":"And I seek refuge in You, my Lord, that they ˹even˺ come near me.”"},{"id":2772,"verseNumber":99,"verseKey":"23:99","arabic":"حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ","english":"When death approaches any of them, they cry, “My Lord! Let me go back,"},{"id":2773,"verseNumber":100,"verseKey":"23:100","arabic":"لَعَلِّىٓ أَعْمَلُ صَـٰلِحًا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَمِن وَرَآئِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ","english":"so I may do good in what I left behind.” Never! It is only a ˹useless˺ appeal they make. And there is a barrier behind them until the Day they are resurrected.<sup foot_note=77030>1</sup> "},{"id":2774,"verseNumber":101,"verseKey":"23:101","arabic":"فَإِذَا نُفِخَ فِى ٱلصُّورِ فَلَآ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍ وَلَا يَتَسَآءَلُونَ","english":"Then, when the Trumpet will be blown,<sup foot_note=77031>1</sup> there will be no kinship between them on that Day, nor will they ˹even care to˺ ask about one another.<sup foot_note=77032>2</sup> "},{"id":2775,"verseNumber":102,"verseKey":"23:102","arabic":"فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ","english":"As for those whose scale is heavy ˹with good deeds˺, it is they who will be successful."},{"id":2776,"verseNumber":103,"verseKey":"23:103","arabic":"وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فِى جَهَنَّمَ خَـٰلِدُونَ","english":"But those whose scale is light, they will have doomed themselves, staying in Hell forever."},{"id":2777,"verseNumber":104,"verseKey":"23:104","arabic":"تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمْ فِيهَا كَـٰلِحُونَ","english":"The Fire will burn their faces, leaving them deformed."},{"id":2778,"verseNumber":105,"verseKey":"23:105","arabic":"أَلَمْ تَكُنْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُم بِهَا تُكَذِّبُونَ","english":"˹It will be said,˺ “Were My revelations not recited to you, but you used to deny them?”"},{"id":2779,"verseNumber":106,"verseKey":"23:106","arabic":"قَالُوا۟ رَبَّنَا غَلَبَتْ عَلَيْنَا شِقْوَتُنَا وَكُنَّا قَوْمًا ضَآلِّينَ","english":"They will cry, “Our Lord! Our ill-fate took hold of us, so we became a misguided people."},{"id":2780,"verseNumber":107,"verseKey":"23:107","arabic":"رَبَّنَآ أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَـٰلِمُونَ","english":"Our Lord! Take us out of this ˹Fire˺. Then if we ever return ˹to denial˺, we will truly be wrongdoers.”"},{"id":2781,"verseNumber":108,"verseKey":"23:108","arabic":"قَالَ ٱخْسَـُٔوا۟ فِيهَا وَلَا تُكَلِّمُونِ","english":"Allah will respond, “Be despised in there! Do not ˹ever˺ plead with Me ˹again˺!"},{"id":2782,"verseNumber":109,"verseKey":"23:109","arabic":"إِنَّهُۥ كَانَ فَرِيقٌ مِّنْ عِبَادِى يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ","english":"Indeed, there was a group of My servants who used to pray, ‘Our Lord! We have believed, so forgive us and have mercy on us, for You are the best of those who show mercy,’"},{"id":2783,"verseNumber":110,"verseKey":"23:110","arabic":"فَٱتَّخَذْتُمُوهُمْ سِخْرِيًّا حَتَّىٰٓ أَنسَوْكُمْ ذِكْرِى وَكُنتُم مِّنْهُمْ تَضْحَكُونَ","english":"but you were ˹so busy˺ making fun of them that it made you forget My remembrance. And you used to laugh at them."},{"id":2784,"verseNumber":111,"verseKey":"23:111","arabic":"إِنِّى جَزَيْتُهُمُ ٱلْيَوْمَ بِمَا صَبَرُوٓا۟ أَنَّهُمْ هُمُ ٱلْفَآئِزُونَ","english":"Today I have indeed rewarded them for their perseverance: they are certainly the triumphant.”"},{"id":2785,"verseNumber":112,"verseKey":"23:112","arabic":"قَـٰلَ كَمْ لَبِثْتُمْ فِى ٱلْأَرْضِ عَدَدَ سِنِينَ","english":"He will ask ˹them˺, “How many years did you remain on earth?”"},{"id":2786,"verseNumber":113,"verseKey":"23:113","arabic":"قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَسْـَٔلِ ٱلْعَآدِّينَ","english":"They will reply, “We remained ˹only˺ a day or part of a day.<sup foot_note=77033>1</sup> But ask those who kept count.”"},{"id":2787,"verseNumber":114,"verseKey":"23:114","arabic":"قَـٰلَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا ۖ لَّوْ أَنَّكُمْ كُنتُمْ تَعْلَمُونَ","english":"He will say, “You only remained for a little while, if only you knew."},{"id":2788,"verseNumber":115,"verseKey":"23:115","arabic":"أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَـٰكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ","english":"Did you then think that We had created you without purpose, and that you would never be returned to Us?”"},{"id":2789,"verseNumber":116,"verseKey":"23:116","arabic":"فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ","english":"Exalted is Allah, the True King! There is no god ˹worthy of worship˺ except Him, the Lord of the Honourable Throne."},{"id":2790,"verseNumber":117,"verseKey":"23:117","arabic":"وَمَن يَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ لَا بُرْهَـٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓ ۚ إِنَّهُۥ لَا يُفْلِحُ ٱلْكَـٰفِرُونَ","english":"Whoever invokes, besides Allah, another god—for which they can have no proof—they will surely find their penalty with their Lord. Indeed, the disbelievers will never succeed."},{"id":2791,"verseNumber":118,"verseKey":"23:118","arabic":"وَقُل رَّبِّ ٱغْفِرْ وَٱرْحَمْ وَأَنتَ خَيْرُ ٱلرَّٰحِمِينَ","english":"Say, ˹O Prophet,˺ “My Lord! Forgive and have mercy, for You are the best of those who show mercy.”"}]}
+[
+  {
+    "id": 23001,
+    "verseNumber": 1,
+    "verseKey": "23:1",
+    "arabic": "قَدْ أَفْلَحَ الْمُؤْمِنُونَ",
+    "persian": "به راستی که مؤمنان رستگار شدند،"
+  },
+  {
+    "id": 23002,
+    "verseNumber": 2,
+    "verseKey": "23:2",
+    "arabic": "الَّذینَ هُمْ فی‏ صَلاتِهِمْ خاشِعُونَ",
+    "persian": "همانان که در نمازشان فروتنند،"
+  },
+  {
+    "id": 23003,
+    "verseNumber": 3,
+    "verseKey": "23:3",
+    "arabic": "وَ الَّذینَ هُمْ عَنِ اللَّغْوِ مُعْرِضُونَ",
+    "persian": "و آنان که از بیهوده رویگردانند،"
+  },
+  {
+    "id": 23004,
+    "verseNumber": 4,
+    "verseKey": "23:4",
+    "arabic": "وَ الَّذینَ هُمْ لِلزَّکاةِ فاعِلُونَ",
+    "persian": "و آنان که زکات می‌پردازند،"
+  },
+  {
+    "id": 23005,
+    "verseNumber": 5,
+    "verseKey": "23:5",
+    "arabic": "وَ الَّذینَ هُمْ لِفُرُوجِهِمْ حافِظُونَ",
+    "persian": "و کسانی که پاکدامنند،"
+  },
+  {
+    "id": 23006,
+    "verseNumber": 6,
+    "verseKey": "23:6",
+    "arabic": "إِلاَّ عَلى‏ أَزْواجِهِمْ أَوْ ما مَلَکَتْ أَیْمانُهُمْ فَإِنَّهُمْ غَیْرُ مَلُومینَ",
+    "persian": "مگر در مورد همسرانشان یا کنیزانی که به دست آورده‌اند، که در این صورت بر آنان نکوهشی نیست."
+  },
+  {
+    "id": 23007,
+    "verseNumber": 7,
+    "verseKey": "23:7",
+    "arabic": "فَمَنِ ابْتَغى‏ وَراءَ ذلِکَ فَأُولئِکَ هُمُ العادُونَ",
+    "persian": "پس هر که فراتر از این جوید، آنان از حد درگذرندگانند."
+  },
+  {
+    "id": 23008,
+    "verseNumber": 8,
+    "verseKey": "23:8",
+    "arabic": "وَ الَّذینَ هُمْ لِأَماناتِهِمْ وَ عَهْدِهِمْ راعُونَ",
+    "persian": "و آنان که امانتها و پیمان خود را رعایت می‌کنند،"
+  },
+  {
+    "id": 23009,
+    "verseNumber": 9,
+    "verseKey": "23:9",
+    "arabic": "وَ الَّذینَ هُمْ عَلى‏ صَلَواتِهِمْ یُحافِظُونَ",
+    "persian": "و آنان که بر نمازهایشان مواظبت می‌نمایند،"
+  },
+  {
+    "id": 23010,
+    "verseNumber": 10,
+    "verseKey": "23:10",
+    "arabic": "أُولئِکَ هُمُ الْوارِثُونَ",
+    "persian": "آنانند که خود وارثانند،"
+  },
+  {
+    "id": 23011,
+    "verseNumber": 11,
+    "verseKey": "23:11",
+    "arabic": "الَّذینَ یَرِثُونَ الْفِرْدَوْسَ هُمْ فیها خالِدُونَ",
+    "persian": "همانان که بهشت را به ارث می‌برند و در آنجا جاودان می‌مانند."
+  },
+  {
+    "id": 23012,
+    "verseNumber": 12,
+    "verseKey": "23:12",
+    "arabic": "وَ لَقَدْ خَلَقْنَا الْإِنْسانَ مِنْ سُلالَةٍ مِنْ طینٍ",
+    "persian": "و به یقین، انسان را از عصاره‌ای از گِل آفریدیم."
+  },
+  {
+    "id": 23013,
+    "verseNumber": 13,
+    "verseKey": "23:13",
+    "arabic": "ثُمَّ جَعَلْناهُ نُطْفَةً فی‏ قَرارٍ مَکینٍ",
+    "persian": "سپس او را [به صورت‌] نطفه‌ای در جایگاهی استوار قرار دادیم."
+  },
+  {
+    "id": 23014,
+    "verseNumber": 14,
+    "verseKey": "23:14",
+    "arabic": "ثُمَّ خَلَقْنَا النُّطْفَةَ عَلَقَةً فَخَلَقْنَا الْعَلَقَةَ مُضْغَةً فَخَلَقْنَا الْمُضْغَةَ عِظاماً فَکَسَوْنَا الْعِظامَ لَحْماً ثُمَّ أَنْشَأْناهُ خَلْقاً آخَرَ فَتَبارَکَ اللَّهُ أَحْسَنُ الْخالِقینَ",
+    "persian": "آنگاه نطفه را به صورت علقه درآوردیم. پس آن علقه را [به صورت‌] مضغه گردانیدیم، و آنگاه مضغه را استخوانهایی ساختیم، بعد استخوانها را با گوشتی پوشانیدیم، آنگاه [جنین را در] آفرینشی دیگر پدید آوردیم. آفرین باد بر خدا که بهترین آفرینندگان است."
+  },
+  {
+    "id": 23015,
+    "verseNumber": 15,
+    "verseKey": "23:15",
+    "arabic": "ثُمَّ إِنَّکُمْ بَعْدَ ذلِکَ لَمَیِّتُونَ",
+    "persian": "بعد از این [مراحل‌] قطعاً خواهید مُرد."
+  },
+  {
+    "id": 23016,
+    "verseNumber": 16,
+    "verseKey": "23:16",
+    "arabic": "ثُمَّ إِنَّکُمْ یَوْمَ الْقِیامَةِ تُبْعَثُونَ",
+    "persian": "آنگاه شما در روز رستاخیز برانگیخته خواهید شد."
+  },
+  {
+    "id": 23017,
+    "verseNumber": 17,
+    "verseKey": "23:17",
+    "arabic": "وَ لَقَدْ خَلَقْنا فَوْقَکُمْ سَبْعَ طَرائِقَ وَ ما کُنَّا عَنِ الْخَلْقِ غافِلینَ",
+    "persian": "و به راستی [ما] بالای سر شما هفت راه [آسمانی‌] آفریدیم و از [کار] آفرینش غافل نبوده‌ایم."
+  },
+  {
+    "id": 23018,
+    "verseNumber": 18,
+    "verseKey": "23:18",
+    "arabic": "وَ أَنْزَلْنا مِنَ السَّماءِ ماءً بِقَدَرٍ فَأَسْکَنَّاهُ فِی الْأَرْضِ وَ إِنَّا عَلى‏ ذَهابٍ بِهِ لَقادِرُونَ",
+    "persian": "و از آسمان، آبی به اندازه [معیّن‌] فرود آوردیم، و آن را در زمین جای دادیم، و ما برای از بین بردن آن مسلّماً تواناییم."
+  },
+  {
+    "id": 23019,
+    "verseNumber": 19,
+    "verseKey": "23:19",
+    "arabic": "فَأَنْشَأْنا لَکُمْ بِهِ جَنَّاتٍ مِنْ نَخیلٍ وَ أَعْنابٍ لَکُمْ فیها فَواکِهُ کَثیرَةٌ وَ مِنْها تَأْکُلُونَ",
+    "persian": "پس برای شما به وسیله آن باغهایی از درختان خرما و انگور پدیدار کردیم که در آنها برای شما میوه‌های فراوان است و از آنها می‌خورید."
+  },
+  {
+    "id": 23020,
+    "verseNumber": 20,
+    "verseKey": "23:20",
+    "arabic": "وَ شَجَرَةً تَخْرُجُ مِنْ طُورِ سَیْناءَ تَنْبُتُ بِالدُّهْنِ وَ صِبْغٍ لِلْآکِلینَ",
+    "persian": "و از طور سینا درختی برمی‌آید که روغن و نان خورشی برای خورندگان است."
+  },
+  {
+    "id": 23021,
+    "verseNumber": 21,
+    "verseKey": "23:21",
+    "arabic": "وَ إِنَّ لَکُمْ فِی الْأَنْعامِ لَعِبْرَةً نُسْقیکُمْ مِمَّا فی‏ بُطُونِها وَ لَکُمْ فیها مَنافِعُ کَثیرَةٌ وَ مِنْها تَأْکُلُونَ",
+    "persian": "و البته برای شما در دامها[ی گلّه درس‌] عبرتی است: از [شیری‌] که در شکم آنهاست، به شما می‌نوشانیم، و برای شما در آنها سودهای فراوان است و از آنها می‌خورید."
+  },
+  {
+    "id": 23022,
+    "verseNumber": 22,
+    "verseKey": "23:22",
+    "arabic": "وَ عَلَیْها وَ عَلَى الْفُلْکِ تُحْمَلُونَ",
+    "persian": "و بر آنها و بر کشتیها سوار می‌شوید."
+  },
+  {
+    "id": 23023,
+    "verseNumber": 23,
+    "verseKey": "23:23",
+    "arabic": "وَ لَقَدْ أَرْسَلْنا نُوحاً إِلى‏ قَوْمِهِ فَقالَ یا قَوْمِ اعْبُدُوا اللَّهَ ما لَکُمْ مِنْ إِلهٍ غَیْرُهُ أَ فَلا تَتَّقُونَ",
+    "persian": "و به یقین نوح را به سوی قومش فرستادیم. پس [به آنان‌] گفت: «ای قوم من، خدا را بپرستید. شما را جز او خدایی نیست. مگر پروا ندارید؟»"
+  },
+  {
+    "id": 23024,
+    "verseNumber": 24,
+    "verseKey": "23:24",
+    "arabic": "فَقالَ الْمَلَأُ الَّذینَ کَفَرُوا مِنْ قَوْمِهِ ما هذا إِلاَّ بَشَرٌ مِثْلُکُمْ یُریدُ أَنْ یَتَفَضَّلَ عَلَیْکُمْ وَ لَوْ شاءَ اللَّهُ لَأَنْزَلَ مَلائِکَةً ما سَمِعْنا بِهذا فی‏ آبائِنَا الْأَوَّلینَ",
+    "persian": "و اشراف قومش که کافر بودند گفتند: «این [مرد] جز بشری چون شما نیست، می‌خواهد بر شما برتری جوید، و اگر خدا می‌خواست قطعاً فرشتگانی می‌فرستاد. [ما]در میان پدران نخستین خود، چنین [چیزی‌] نشنیده‌ایم.»"
+  },
+  {
+    "id": 23025,
+    "verseNumber": 25,
+    "verseKey": "23:25",
+    "arabic": "إِنْ هُوَ إِلاَّ رَجُلٌ بِهِ جِنَّةٌ فَتَرَبَّصُوا بِهِ حَتَّى حینٍ",
+    "persian": "او نیست جز مردی که در وی [حال‌] جنون است، پس تا چندی در باره‌اش دست نگاه دارید."
+  },
+  {
+    "id": 23026,
+    "verseNumber": 26,
+    "verseKey": "23:26",
+    "arabic": "قالَ رَبِّ انْصُرْنی‏ بِما کَذَّبُونِ",
+    "persian": "[نوح‌] گفت: «پروردگارا، از آن روی که دروغزنم خواندند مرا یاری کن.»"
+  },
+  {
+    "id": 23027,
+    "verseNumber": 27,
+    "verseKey": "23:27",
+    "arabic": "فَأَوْحَیْنا إِلَیْهِ أَنِ اصْنَعِ الْفُلْکَ بِأَعْیُنِنا وَ وَحْیِنا فَإِذا جاءَ أَمْرُنا وَ فارَ التَّنُّورُ فَاسْلُکْ فیها مِنْ کُلٍّ زَوْجَیْنِ اثْنَیْنِ وَ أَهْلَکَ إِلاَّ مَنْ سَبَقَ عَلَیْهِ الْقَوْلُ مِنْهُمْ وَ لا تُخاطِبْنی‏ فِی الَّذینَ ظَلَمُوا إِنَّهُمْ مُغْرَقُونَ",
+    "persian": "پس به او وحی کردیم که: زیر نظر ما و [به‌] وحی ما کشتی را بساز، و چون فرمان ما دررسید و تنور به فوران آمد، پس در آن از هر نوع [حیوانی‌] دو تا [یکی نر و دیگری ماده‌] با خانواده‌ات -بجز کسی از آنان که حکم [عذاب ] بر او پیشی گرفته است- وارد کن، در باره کسانی که ظلم کرده‌اند با من سخن مگوی، زیرا آنها غرق خواهند شد."
+  },
+  {
+    "id": 23028,
+    "verseNumber": 28,
+    "verseKey": "23:28",
+    "arabic": "فَإِذَا اسْتَوَیْتَ أَنْتَ وَ مَنْ مَعَکَ عَلَى الْفُلْکِ فَقُلِ الْحَمْدُ لِلَّهِ الَّذی نَجَّانا مِنَ الْقَوْمِ الظَّالِمینَ",
+    "persian": "و چون تو با آنان که همراه تواند بر کشتی نشستی بگو: «ستایش خدایی را که ما را از [چنگ‌] گروه ظالمان رهانید.»"
+  },
+  {
+    "id": 23029,
+    "verseNumber": 29,
+    "verseKey": "23:29",
+    "arabic": "وَ قُلْ رَبِّ أَنْزِلْنی‏ مُنْزَلاً مُبارَکاً وَ أَنْتَ خَیْرُ الْمُنْزِلینَ",
+    "persian": "و بگو: «پروردگارا، مرا در جایی پربرکت فرود آور [که‌] تو نیکترین مهمان‌نوازانی.»"
+  },
+  {
+    "id": 23030,
+    "verseNumber": 30,
+    "verseKey": "23:30",
+    "arabic": "إِنَّ فی‏ ذلِکَ لَآیاتٍ وَ إِنْ کُنَّا لَمُبْتَلینَ",
+    "persian": "در حقیقت، در این [ماجرا] عبرتهایی است، و قطعاً ما آزمایش‌کننده بودیم."
+  },
+  {
+    "id": 23031,
+    "verseNumber": 31,
+    "verseKey": "23:31",
+    "arabic": "ثُمَّ أَنْشَأْنا مِنْ بَعْدِهِمْ قَرْناً آخَرینَ",
+    "persian": "سپس، بعد از آنان نسل‌[هایی‌] دیگر پدید آوردیم."
+  },
+  {
+    "id": 23032,
+    "verseNumber": 32,
+    "verseKey": "23:32",
+    "arabic": "فَأَرْسَلْنا فیهِمْ رَسُولاً مِنْهُمْ أَنِ اعْبُدُوا اللَّهَ ما لَکُمْ مِنْ إِلهٍ غَیْرُهُ أَ فَلا تَتَّقُونَ",
+    "persian": "و در میانشان پیامبری از خودشان روانه کردیم که: خدا را بپرستید. جز او برای شما معبودی نیست. آیا سرِ پرهیزگاری ندارید؟"
+  },
+  {
+    "id": 23033,
+    "verseNumber": 33,
+    "verseKey": "23:33",
+    "arabic": "وَ قالَ الْمَلَأُ مِنْ قَوْمِهِ الَّذینَ کَفَرُوا وَ کَذَّبُوا بِلِقاءِ الْآخِرَةِ وَ أَتْرَفْناهُمْ فِی الْحَیاةِ الدُّنْیا ما هذا إِلاَّ بَشَرٌ مِثْلُکُمْ یَأْکُلُ مِمَّا تَأْکُلُونَ مِنْهُ وَ یَشْرَبُ مِمَّا تَشْرَبُونَ",
+    "persian": "و اشراف قومش که کافر شده، و دیدار آخرت را دروغ پنداشته بودند، و در زندگی دنیا آنان را مرفّه ساخته بودیم گفتند: «این [مرد] جز بشری چون شما نیست: از آنچه می‌خورید، می‌خورد؛ و از آنچه می‌نوشید، می‌نوشد."
+  },
+  {
+    "id": 23034,
+    "verseNumber": 34,
+    "verseKey": "23:34",
+    "arabic": "وَ لَئِنْ أَطَعْتُمْ بَشَراً مِثْلَکُمْ إِنَّکُمْ إِذاً لَخاسِرُونَ",
+    "persian": "و اگر بشری مثل خودتان را اطاعت کنید در آن صورت قطعاً زیانکار خواهید بود."
+  },
+  {
+    "id": 23035,
+    "verseNumber": 35,
+    "verseKey": "23:35",
+    "arabic": "أَ یَعِدُکُمْ أَنَّکُمْ إِذا مِتُّمْ وَ کُنْتُمْ تُراباً وَ عِظاماً أَنَّکُمْ مُخْرَجُونَ",
+    "persian": "آیا به شما وعده می‌دهد که وقتی مُردید و خاک و استخوان شدید [باز] شما [از گور زنده‌] بیرون آورده می‌شوید؟"
+  },
+  {
+    "id": 23036,
+    "verseNumber": 36,
+    "verseKey": "23:36",
+    "arabic": "هَیْهاتَ هَیْهاتَ لِما تُوعَدُونَ",
+    "persian": "وه، چه دور است آنچه که وعده داده می‌شوید."
+  },
+  {
+    "id": 23037,
+    "verseNumber": 37,
+    "verseKey": "23:37",
+    "arabic": "إِنْ هِیَ إِلاَّ حَیاتُنَا الدُّنْیا نَمُوتُ وَ نَحْیا وَ ما نَحْنُ بِمَبْعُوثینَ",
+    "persian": "جز این زندگانی دنیای ما چیزی نیست. می‌میریم و زندگی می‌کنیم و دیگر برانگیخته نخواهیم شد."
+  },
+  {
+    "id": 23038,
+    "verseNumber": 38,
+    "verseKey": "23:38",
+    "arabic": "إِنْ هُوَ إِلاَّ رَجُلٌ افْتَرى‏ عَلَى اللَّهِ کَذِباً وَ ما نَحْنُ لَهُ بِمُؤْمِنینَ",
+    "persian": "او جز مردی که بر خدا دروغ می‌بندد نیست، و ما به او اعتقاد نداریم.»"
+  },
+  {
+    "id": 23039,
+    "verseNumber": 39,
+    "verseKey": "23:39",
+    "arabic": "قالَ رَبِّ انْصُرْنی‏ بِما کَذَّبُونِ",
+    "persian": "گفت: «پروردگارا، از آن روی که مرا دروغزن خواندند یاریم کن.»"
+  },
+  {
+    "id": 23040,
+    "verseNumber": 40,
+    "verseKey": "23:40",
+    "arabic": "قالَ عَمَّا قَلیلٍ لَیُصْبِحُنَّ نادِمینَ",
+    "persian": "فرمود: «به زودی سخت پشیمان خواهند شد.»"
+  },
+  {
+    "id": 23041,
+    "verseNumber": 41,
+    "verseKey": "23:41",
+    "arabic": "فَأَخَذَتْهُمُ الصَّیْحَةُ بِالْحَقِّ فَجَعَلْناهُمْ غُثاءً فَبُعْداً لِلْقَوْمِ الظَّالِمینَ",
+    "persian": "پس فریاد [مرگبار] آنان را به حقّ فرو گرفت، و آنها را [چون‌] خاشاکی که بر آب افتد، گردانیدیم. دور باد [از رحمت خدا] گروه ستمکاران."
+  },
+  {
+    "id": 23042,
+    "verseNumber": 42,
+    "verseKey": "23:42",
+    "arabic": "ثُمَّ أَنْشَأْنا مِنْ بَعْدِهِمْ قُرُوناً آخَرینَ",
+    "persian": "آنگاه پس از آنان نسلهای دیگری پدید آوردیم."
+  },
+  {
+    "id": 23043,
+    "verseNumber": 43,
+    "verseKey": "23:43",
+    "arabic": "ما تَسْبِقُ مِنْ أُمَّةٍ أَجَلَها وَ ما یَسْتَأْخِرُونَ",
+    "persian": "هیچ امّتی نه از اجل خود پیشی می‌گیرد و نه باز پس می‌ماند."
+  },
+  {
+    "id": 23044,
+    "verseNumber": 44,
+    "verseKey": "23:44",
+    "arabic": "ثُمَّ أَرْسَلْنا رُسُلَنا تَتْرا کُلَّ ما جاءَ أُمَّةً رَسُولُها کَذَّبُوهُ فَأَتْبَعْنا بَعْضَهُمْ بَعْضاً وَ جَعَلْناهُمْ أَحادیثَ فَبُعْداً لِقَوْمٍ لا یُؤْمِنُونَ",
+    "persian": "باز فرستادگان خود را پیاپی روانه کردیم. هر بار برای [هدایت‌] امتی پیامبرش آمد، او را تکذیب کردند؛ پس [ما امتهای سرکش را] یکی پس از دیگری آوردیم و آنها را مایه عبرت [و زبانزد مردم‌] گردانیدیم. دور باد [از رحمت خدا] مردمی که ایمان نمی‌آورند."
+  },
+  {
+    "id": 23045,
+    "verseNumber": 45,
+    "verseKey": "23:45",
+    "arabic": "ثُمَّ أَرْسَلْنا مُوسى‏ وَ أَخاهُ هارُونَ بِآیاتِنا وَ سُلْطانٍ مُبینٍ",
+    "persian": "سپس موسی و برادرش هارون را با آیات خود و حجتی آشکار فرستادیم،"
+  },
+  {
+    "id": 23046,
+    "verseNumber": 46,
+    "verseKey": "23:46",
+    "arabic": "إِلى‏ فِرْعَوْنَ وَ مَلاَئِهِ فَاسْتَکْبَرُوا وَ کانُوا قَوْماً عالینَ",
+    "persian": "به سوی فرعون و سران [قوم‌] او، ولی تکبّر نمودند و مردمی گردنکش بودند،"
+  },
+  {
+    "id": 23047,
+    "verseNumber": 47,
+    "verseKey": "23:47",
+    "arabic": "فَقالُوا أَ نُؤْمِنُ لِبَشَرَیْنِ مِثْلِنا وَ قَوْمُهُما لَنا عابِدُونَ",
+    "persian": "پس گفتند: «آیا به دو بشر که مثل خود ما هستند و طایفه آنها بندگان ما می‌باشند ایمان بیاوریم؟»"
+  },
+  {
+    "id": 23048,
+    "verseNumber": 48,
+    "verseKey": "23:48",
+    "arabic": "فَکَذَّبُوهُما فَکانُوا مِنَ الْمُهْلَکینَ",
+    "persian": "در نتیجه، آن دو را دروغزن خواندند، پس از زمره هلاک‌شدگان گشتند."
+  },
+  {
+    "id": 23049,
+    "verseNumber": 49,
+    "verseKey": "23:49",
+    "arabic": "وَ لَقَدْ آتَیْنا مُوسَى الْکِتابَ لَعَلَّهُمْ یَهْتَدُونَ",
+    "persian": "و به یقین، ما به موسی کتاب [آسمانی‌] دادیم، باشد که آنان به راه راست روند."
+  },
+  {
+    "id": 23050,
+    "verseNumber": 50,
+    "verseKey": "23:50",
+    "arabic": "وَ جَعَلْنَا ابْنَ مَرْیَمَ وَ أُمَّهُ آیَةً وَ آوَیْناهُما إِلى‏ رَبْوَةٍ ذاتِ قَرارٍ وَ مَعینٍ",
+    "persian": "و پسر مریم و مادرش را نشانه‌ای گردانیدیم و آن دو را در سرزمین بلندی که جای زیست و [دارای‌] آب زلال بود جای دادیم."
+  },
+  {
+    "id": 23051,
+    "verseNumber": 51,
+    "verseKey": "23:51",
+    "arabic": "یا أَیُّهَا الرُّسُلُ کُلُوا مِنَ الطَّیِّباتِ وَ اعْمَلُوا صالِحاً إِنِّی بِما تَعْمَلُونَ عَلیمٌ",
+    "persian": "ای پیامبران، از چیزهای پاکیزه بخورید و کار شایسته کنید، که من به آنچه انجام می‌دهید دانایم."
+  },
+  {
+    "id": 23052,
+    "verseNumber": 52,
+    "verseKey": "23:52",
+    "arabic": "وَ إِنَّ هذِهِ أُمَّتُکُمْ أُمَّةً واحِدَةً وَ أَنَا رَبُّکُمْ فَاتَّقُونِ",
+    "persian": "و در حقیقت، این امّت شماست که امتی یگانه است، و من پروردگار شمایم؛ پس، از من پروا دارید."
+  },
+  {
+    "id": 23053,
+    "verseNumber": 53,
+    "verseKey": "23:53",
+    "arabic": "فَتَقَطَّعُوا أَمْرَهُمْ بَیْنَهُمْ زُبُراً کُلُّ حِزْبٍ بِما لَدَیْهِمْ فَرِحُونَ",
+    "persian": "تا کار [دین‌]شان را میان خود قطعه قطعه کردند [و] دسته دسته شدند: هر دسته‌ای به آنچه نزدشان بود، دل خوش کردند."
+  },
+  {
+    "id": 23054,
+    "verseNumber": 54,
+    "verseKey": "23:54",
+    "arabic": "فَذَرْهُمْ فی‏ غَمْرَتِهِمْ حَتَّى حینٍ",
+    "persian": "پس آنها را در ورطه گمراهی‌شان تا چندی واگذار."
+  },
+  {
+    "id": 23055,
+    "verseNumber": 55,
+    "verseKey": "23:55",
+    "arabic": "أَ یَحْسَبُونَ أَنَّما نُمِدُّهُمْ بِهِ مِنْ مالٍ وَ بَنینَ",
+    "persian": "آیا می‌پندارند که آنچه از مال و پسران که بدیشان مدد می‌دهیم،"
+  },
+  {
+    "id": 23056,
+    "verseNumber": 56,
+    "verseKey": "23:56",
+    "arabic": "نُسارِعُ لَهُمْ فِی الْخَیْراتِ بَلْ لا یَشْعُرُونَ",
+    "persian": "[از آن روی است که‌] می‌خواهیم به سودشان در خیرات شتاب ورزیم؟ [نه،] بلکه نمی‌فهمند."
+  },
+  {
+    "id": 23057,
+    "verseNumber": 57,
+    "verseKey": "23:57",
+    "arabic": "إِنَّ الَّذینَ هُمْ مِنْ خَشْیَةِ رَبِّهِمْ مُشْفِقُونَ",
+    "persian": "در حقیقت، کسانی که از بیم پروردگارشان هراسانند،"
+  },
+  {
+    "id": 23058,
+    "verseNumber": 58,
+    "verseKey": "23:58",
+    "arabic": "وَ الَّذینَ هُمْ بِآیاتِ رَبِّهِمْ یُؤْمِنُونَ",
+    "persian": "و کسانی که به نشانه‌های پروردگارشان ایمان می‌آورند،"
+  },
+  {
+    "id": 23059,
+    "verseNumber": 59,
+    "verseKey": "23:59",
+    "arabic": "وَ الَّذینَ هُمْ بِرَبِّهِمْ لا یُشْرِکُونَ",
+    "persian": "و آنان که به پروردگارشان شرک نمی‌آورند،"
+  },
+  {
+    "id": 23060,
+    "verseNumber": 60,
+    "verseKey": "23:60",
+    "arabic": "وَ الَّذینَ یُؤْتُونَ ما آتَوْا وَ قُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلى‏ رَبِّهِمْ راجِعُونَ",
+    "persian": "و کسانی که آنچه را دادند [در راه خدا] می‌دهند، در حالی که دلهایشان ترسان است [و می‌دانند] که به سوی پروردگارشان بازخواهند گشت،"
+  },
+  {
+    "id": 23061,
+    "verseNumber": 61,
+    "verseKey": "23:61",
+    "arabic": "أُولئِکَ یُسارِعُونَ فِی الْخَیْراتِ وَ هُمْ لَها سابِقُونَ",
+    "persian": "آنانند که در کارهای نیک شتاب می‌ورزند و آنانند که در انجام آنها سبقت می‌جویند."
+  },
+  {
+    "id": 23062,
+    "verseNumber": 62,
+    "verseKey": "23:62",
+    "arabic": "وَ لا نُکَلِّفُ نَفْساً إِلاَّ وُسْعَها وَ لَدَیْنا کِتابٌ یَنْطِقُ بِالْحَقِّ وَ هُمْ لا یُظْلَمُونَ",
+    "persian": "و هیچ کس را جز به قدر توانش تکلیف نمی‌کنیم، و نزد ما کتابی است که به حق سخن می‌گوید و آنان مورد ستم قرار نخواهند گرفت."
+  },
+  {
+    "id": 23063,
+    "verseNumber": 63,
+    "verseKey": "23:63",
+    "arabic": "بَلْ قُلُوبُهُمْ فی‏ غَمْرَةٍ مِنْ هذا وَ لَهُمْ أَعْمالٌ مِنْ دُونِ ذلِکَ هُمْ لَها عامِلُونَ",
+    "persian": "[نه،] بلکه دلهای آنان از این [حقیقت‌] در غفلت است، و آنان غیر از این [گناهان‌] کردارهایی [دیگر] دارند که به انجام آن مبادرت می‌ورزند."
+  },
+  {
+    "id": 23064,
+    "verseNumber": 64,
+    "verseKey": "23:64",
+    "arabic": "حَتَّى إِذا أَخَذْنا مُتْرَفیهِمْ بِالْعَذابِ إِذا هُمْ یَجْأَرُونَ",
+    "persian": "تا وقتی خوشگذرانانِ آنها را به عذاب گرفتار ساختیم، بناگاه به زاری درمی‌آیند."
+  },
+  {
+    "id": 23065,
+    "verseNumber": 65,
+    "verseKey": "23:65",
+    "arabic": "لا تَجْأَرُوا الْیَوْمَ إِنَّکُمْ مِنَّا لا تُنْصَرُونَ",
+    "persian": "امروز زاری مکنید که قطعاً شما از جانب ما یاری نخواهید شد."
+  },
+  {
+    "id": 23066,
+    "verseNumber": 66,
+    "verseKey": "23:66",
+    "arabic": "قَدْ کانَتْ آیاتی‏ تُتْلى‏ عَلَیْکُمْ فَکُنْتُمْ عَلى‏ أَعْقابِکُمْ تَنْکِصُونَ",
+    "persian": "در حقیقت، آیات من بر شما خوانده می‌شد و شما بودید که همواره به قهقرا می‌رفتید."
+  },
+  {
+    "id": 23067,
+    "verseNumber": 67,
+    "verseKey": "23:67",
+    "arabic": "مُسْتَکْبِرینَ بِهِ سامِراً تَهْجُرُونَ",
+    "persian": "در حالی که از [پذیرفتن‌] آن تکبّر می‌ورزیدید و شب هنگام [در محافل خود] بدگویی می‌کردید."
+  },
+  {
+    "id": 23068,
+    "verseNumber": 68,
+    "verseKey": "23:68",
+    "arabic": "أَ فَلَمْ یَدَّبَّرُوا الْقَوْلَ أَمْ جاءَهُمْ ما لَمْ یَأْتِ آباءَهُمُ الْأَوَّلینَ",
+    "persian": "آیا در [عظمت‌] این سخن نیندیشیده‌اند، یا چیزی برای آنان آمده که برای پدران پیشین آنها نیامده است؟"
+  },
+  {
+    "id": 23069,
+    "verseNumber": 69,
+    "verseKey": "23:69",
+    "arabic": "أَمْ لَمْ یَعْرِفُوا رَسُولَهُمْ فَهُمْ لَهُ مُنْکِرُونَ",
+    "persian": "یا پیامبر خود را [درست‌] نشناخته و [لذا] به انکار او پرداخته‌اند؟"
+  },
+  {
+    "id": 23070,
+    "verseNumber": 70,
+    "verseKey": "23:70",
+    "arabic": "أَمْ یَقُولُونَ بِهِ جِنَّةٌ بَلْ جاءَهُمْ بِالْحَقِّ وَ أَکْثَرُهُمْ لِلْحَقِّ کارِهُونَ",
+    "persian": "یا می‌گویند او جنونی دارد؟ [نه،] بلکه [او] حق را برای ایشان آورده و[لی‌] بیشترشان حقیقت را خوش ندارند."
+  },
+  {
+    "id": 23071,
+    "verseNumber": 71,
+    "verseKey": "23:71",
+    "arabic": "وَ لَوِ اتَّبَعَ الْحَقُّ أَهْواءَهُمْ لَفَسَدَتِ السَّماواتُ وَ الْأَرْضُ وَ مَنْ فیهِنَّ بَلْ أَتَیْناهُمْ بِذِکْرِهِمْ فَهُمْ عَنْ ذِکْرِهِمْ مُعْرِضُونَ",
+    "persian": "و اگر حق از هوسهای آنها پیروی می‌کرد، قطعاً آسمانها و زمین و هر که در آنهاست تباه می‌شد. [نه!] بلکه یادنامه‌شان را به آنان داده‌ایم، ولی آنها از [پیروی‌] یادنامه خود رویگردانند."
+  },
+  {
+    "id": 23072,
+    "verseNumber": 72,
+    "verseKey": "23:72",
+    "arabic": "أَمْ تَسْأَلُهُمْ خَرْجاً فَخَراجُ رَبِّکَ خَیْرٌ وَ هُوَ خَیْرُ الرَّازِقینَ",
+    "persian": "یا از ایشان مزدی مطالبه می‌کنی؟ و مزد پروردگارت بهتر است، و اوست که بهترین روزی‌دهندگان است."
+  },
+  {
+    "id": 23073,
+    "verseNumber": 73,
+    "verseKey": "23:73",
+    "arabic": "وَ إِنَّکَ لَتَدْعُوهُمْ إِلى‏ صِراطٍ مُسْتَقیمٍ",
+    "persian": "و در حقیقت، این تویی که جدّاً آنها را به راه راست می‌خوانی."
+  },
+  {
+    "id": 23074,
+    "verseNumber": 74,
+    "verseKey": "23:74",
+    "arabic": "وَ إِنَّ الَّذینَ لا یُؤْمِنُونَ بِالْآخِرَةِ عَنِ الصِّراطِ لَناکِبُونَ",
+    "persian": "و به راستی کسانی که به آخرت ایمان ندارند، از راه [درست‌] سخت منحرفند."
+  },
+  {
+    "id": 23075,
+    "verseNumber": 75,
+    "verseKey": "23:75",
+    "arabic": "وَ لَوْ رَحِمْناهُمْ وَ کَشَفْنا ما بِهِمْ مِنْ ضُرٍّ لَلَجُّوا فی‏ طُغْیانِهِمْ یَعْمَهُونَ",
+    "persian": "و اگر ایشان را ببخشاییم، و آنچه از صدمه بر آنان [وارد آمده‌] است برطرف کنیم، در طغیان خود کوردلانه اصرار می‌ورزند."
+  },
+  {
+    "id": 23076,
+    "verseNumber": 76,
+    "verseKey": "23:76",
+    "arabic": "وَ لَقَدْ أَخَذْناهُمْ بِالْعَذابِ فَمَا اسْتَکانُوا لِرَبِّهِمْ وَ ما یَتَضَرَّعُونَ",
+    "persian": "و به راستی ایشان را به عذاب گرفتار کردیم و[لی‌] نسبت به پروردگارشان فروتنی نکردند و به زاری درنیامدند."
+  },
+  {
+    "id": 23077,
+    "verseNumber": 77,
+    "verseKey": "23:77",
+    "arabic": "حَتَّى إِذا فَتَحْنا عَلَیْهِمْ باباً ذا عَذابٍ شَدیدٍ إِذا هُمْ فیهِ مُبْلِسُونَ",
+    "persian": "تا وقتی که دری از عذاب دردناک بر آنان گشودیم، بناگاه ایشان در آن [حال‌] نومید شدند."
+  },
+  {
+    "id": 23078,
+    "verseNumber": 78,
+    "verseKey": "23:78",
+    "arabic": "وَ هُوَ الَّذی أَنْشَأَ لَکُمُ السَّمْعَ وَ الْأَبْصارَ وَ الْأَفْئِدَةَ قَلیلاً ما تَشْکُرُونَ",
+    "persian": "و اوست آن کس که برای شما گوش و چشم و دل پدید آورد. چه اندک سپاسگزارید."
+  },
+  {
+    "id": 23079,
+    "verseNumber": 79,
+    "verseKey": "23:79",
+    "arabic": "وَ هُوَ الَّذی ذَرَأَکُمْ فِی الْأَرْضِ وَ إِلَیْهِ تُحْشَرُونَ",
+    "persian": "و اوست آن کس که شما را در زمین پدید آورد، و به سوی اوست که گرد آورده خواهید شد."
+  },
+  {
+    "id": 23080,
+    "verseNumber": 80,
+    "verseKey": "23:80",
+    "arabic": "وَ هُوَ الَّذی یُحْیی‏ وَ یُمیتُ وَ لَهُ اخْتِلافُ اللَّیْلِ وَ النَّهارِ أَ فَلا تَعْقِلُونَ",
+    "persian": "و اوست آن کس که زنده می‌کند و می‌میراند، و اختلاف شب و روز از اوست. مگر نمی‌اندیشید؟"
+  },
+  {
+    "id": 23081,
+    "verseNumber": 81,
+    "verseKey": "23:81",
+    "arabic": "بَلْ قالُوا مِثْلَ ما قالَ الْأَوَّلُونَ",
+    "persian": "[نه،] بلکه آنان [نیز] مثل آنچه پیشینیان گفته بودند، گفتند."
+  },
+  {
+    "id": 23082,
+    "verseNumber": 82,
+    "verseKey": "23:82",
+    "arabic": "قالُوا أَ إِذا مِتْنا وَ کُنَّا تُراباً وَ عِظاماً أَ إِنَّا لَمَبْعُوثُونَ",
+    "persian": "گفتند: «آیا چون بمیریم و خاک و استخوان شویم، آیا واقعاً باز ما زنده خواهیم شد؟"
+  },
+  {
+    "id": 23083,
+    "verseNumber": 83,
+    "verseKey": "23:83",
+    "arabic": "لَقَدْ وُعِدْنا نَحْنُ وَ آباؤُنا هذا مِنْ قَبْلُ إِنْ هذا إِلاَّ أَساطیرُ الْأَوَّلینَ",
+    "persian": "درست همین را قبلاً به ما و پدرانمان وعده دادند. این جز افسانه‌های پیشینیان [چیزی‌] نیست.»"
+  },
+  {
+    "id": 23084,
+    "verseNumber": 84,
+    "verseKey": "23:84",
+    "arabic": "قُلْ لِمَنِ الْأَرْضُ وَ مَنْ فیها إِنْ کُنْتُمْ تَعْلَمُونَ",
+    "persian": "بگو: «اگر می‌دانید [بگویید] زمین و هر که در آن است به چه کسی تعلق دارد؟»"
+  },
+  {
+    "id": 23085,
+    "verseNumber": 85,
+    "verseKey": "23:85",
+    "arabic": "سَیَقُولُونَ لِلَّهِ قُلْ أَ فَلا تَذَکَّرُونَ",
+    "persian": "خواهند گفت: «به خدا.» بگو: «آیا عبرت نمی‌گیرید؟»"
+  },
+  {
+    "id": 23086,
+    "verseNumber": 86,
+    "verseKey": "23:86",
+    "arabic": "قُلْ مَنْ رَبُّ السَّماواتِ السَّبْعِ وَ رَبُّ الْعَرْشِ الْعَظیمِ",
+    "persian": "بگو: «پروردگار آسمانهای هفتگانه و پروردگار عرش بزرگ کیست؟»"
+  },
+  {
+    "id": 23087,
+    "verseNumber": 87,
+    "verseKey": "23:87",
+    "arabic": "سَیَقُولُونَ لِلَّهِ قُلْ أَ فَلا تَتَّقُونَ",
+    "persian": "خواهند گفت: «خدا.» بگو: «آیا پرهیزگاری نمی‌کنید؟»"
+  },
+  {
+    "id": 23088,
+    "verseNumber": 88,
+    "verseKey": "23:88",
+    "arabic": "قُلْ مَنْ بِیَدِهِ مَلَکُوتُ کُلِّ شَیْ‏ءٍ وَ هُوَ یُجیرُ وَ لا یُجارُ عَلَیْهِ إِنْ کُنْتُمْ تَعْلَمُونَ",
+    "persian": "بگو: «فرمانروایی هر چیزی به دست کیست؟ و اگر می‌دانید [کیست آنکه‌] او پناه می‌دهد و در پناه کسی نمی‌رود؟»"
+  },
+  {
+    "id": 23089,
+    "verseNumber": 89,
+    "verseKey": "23:89",
+    "arabic": "سَیَقُولُونَ لِلَّهِ قُلْ فَأَنَّى تُسْحَرُونَ",
+    "persian": "خواهند گفت: «خدا.» بگو: «پس چگونه دستخوش افسون شده‌اید؟»"
+  },
+  {
+    "id": 23090,
+    "verseNumber": 90,
+    "verseKey": "23:90",
+    "arabic": "بَلْ أَتَیْناهُمْ بِالْحَقِّ وَ إِنَّهُمْ لَکاذِبُونَ",
+    "persian": "[نه!] بلکه حقیقت را بر ایشان آوردیم، و قطعاً آنان دروغگویند."
+  },
+  {
+    "id": 23091,
+    "verseNumber": 91,
+    "verseKey": "23:91",
+    "arabic": "مَا اتَّخَذَ اللَّهُ مِنْ وَلَدٍ وَ ما کانَ مَعَهُ مِنْ إِلهٍ إِذاً لَذَهَبَ کُلُّ إِلهٍ بِما خَلَقَ وَ لَعَلا بَعْضُهُمْ عَلى‏ بَعْضٍ سُبْحانَ اللَّهِ عَمَّا یَصِفُونَ",
+    "persian": "خدا فرزندی اختیار نکرده و با او معبودی [دیگر] نیست، و اگر جز این بود، قطعاً هر خدایی آنچه را آفریده [بود] باخود می‌برد، و حتماً بعضی از آنان بر بعضی دیگر تفوّق می‌جستند. منزه است خدا از آنچه وصف می‌کنند."
+  },
+  {
+    "id": 23092,
+    "verseNumber": 92,
+    "verseKey": "23:92",
+    "arabic": "عالِمِ الْغَیْبِ وَ الشَّهادَةِ فَتَعالى‏ عَمَّا یُشْرِکُونَ",
+    "persian": "دانای نهان و آشکار، و برتر است از آنچه [با او] شریک می‌گردانند."
+  },
+  {
+    "id": 23093,
+    "verseNumber": 93,
+    "verseKey": "23:93",
+    "arabic": "قُلْ رَبِّ إِمَّا تُرِیَنِّی ما یُوعَدُونَ",
+    "persian": "بگو: «پروردگارا، اگر آنچه را که [از عذاب‌] به آنان وعده داده شده است به من نشان دهی،"
+  },
+  {
+    "id": 23094,
+    "verseNumber": 94,
+    "verseKey": "23:94",
+    "arabic": "رَبِّ فَلا تَجْعَلْنی‏ فِی الْقَوْمِ الظَّالِمینَ",
+    "persian": "پروردگارا، پس مرا در میان قوم ستمکار قرار مده.»"
+  },
+  {
+    "id": 23095,
+    "verseNumber": 95,
+    "verseKey": "23:95",
+    "arabic": "وَ إِنَّا عَلى‏ أَنْ نُرِیَکَ ما نَعِدُهُمْ لَقادِرُونَ",
+    "persian": "و به راستی که ما تواناییم که آنچه را به آنان وعده داده‌ایم بر تو بنمایانیم."
+  },
+  {
+    "id": 23096,
+    "verseNumber": 96,
+    "verseKey": "23:96",
+    "arabic": "ادْفَعْ بِالَّتی‏ هِیَ أَحْسَنُ السَّیِّئَةَ نَحْنُ أَعْلَمُ بِما یَصِفُونَ",
+    "persian": "بدی را به شیوه‌ای نیکو دفع کن. ما به آنچه وصف می‌کنند داناتریم."
+  },
+  {
+    "id": 23097,
+    "verseNumber": 97,
+    "verseKey": "23:97",
+    "arabic": "وَ قُلْ رَبِّ أَعُوذُ بِکَ مِنْ هَمَزاتِ الشَّیاطینِ",
+    "persian": "و بگو: «پروردگارا، از وسوسه‌های شیطانها به تو پناه می‌برم."
+  },
+  {
+    "id": 23098,
+    "verseNumber": 98,
+    "verseKey": "23:98",
+    "arabic": "وَ أَعُوذُ بِکَ رَبِّ أَنْ یَحْضُرُونِ",
+    "persian": "و پروردگارا، از اینکه [آنها] به پیش من حاضر شوند به تو پناه می‌برم.»"
+  },
+  {
+    "id": 23099,
+    "verseNumber": 99,
+    "verseKey": "23:99",
+    "arabic": "حَتَّى إِذا جاءَ أَحَدَهُمُ الْمَوْتُ قالَ رَبِّ ارْجِعُونِ",
+    "persian": "تا آنگاه که مرگ یکی از ایشان فرا رسد، می‌گوید: «پروردگارا، مرا بازگردانید،"
+  },
+  {
+    "id": 23100,
+    "verseNumber": 100,
+    "verseKey": "23:100",
+    "arabic": "لَعَلِّی أَعْمَلُ صالِحاً فیما تَرَکْتُ کَلاَّ إِنَّها کَلِمَةٌ هُوَ قائِلُها وَ مِنْ وَرائِهِمْ بَرْزَخٌ إِلى‏ یَوْمِ یُبْعَثُونَ",
+    "persian": "شاید من در آنچه وانهاده‌ام کار نیکی انجام دهم. نه چنین است، این سخنی است که او گوینده آن است و پشاپیش آنان برزخی است تا روزی که برانگیخته خواهند شد."
+  },
+  {
+    "id": 23101,
+    "verseNumber": 101,
+    "verseKey": "23:101",
+    "arabic": "فَإِذا نُفِخَ فِی الصُّورِ فَلا أَنْسابَ بَیْنَهُمْ یَوْمَئِذٍ وَ لا یَتَساءَلُونَ",
+    "persian": "پس آنگاه که در صور دمیده شود، [دیگر] میانشان نسبت خویشاوندی وجود ندارد، و از [حال‌] یکدیگر نمی‌پرسند."
+  },
+  {
+    "id": 23102,
+    "verseNumber": 102,
+    "verseKey": "23:102",
+    "arabic": "فَمَنْ ثَقُلَتْ مَوازینُهُ فَأُولئِکَ هُمُ الْمُفْلِحُونَ",
+    "persian": "پس کسانی که کفه میزان [اعمال‌] آنان سنگین باشد، ایشان رستگارانند."
+  },
+  {
+    "id": 23103,
+    "verseNumber": 103,
+    "verseKey": "23:103",
+    "arabic": "وَ مَنْ خَفَّتْ مَوازینُهُ فَأُولئِکَ الَّذینَ خَسِرُوا أَنْفُسَهُمْ فی‏ جَهَنَّمَ خالِدُونَ",
+    "persian": "و کسانی که کفه میزان [اعمال‌]شان سبک باشد، آنان به خویشتن زیان زده [و] همیشه در جهنم می‌مانند."
+  },
+  {
+    "id": 23104,
+    "verseNumber": 104,
+    "verseKey": "23:104",
+    "arabic": "تَلْفَحُ وُجُوهَهُمُ النَّارُ وَ هُمْ فیها کالِحُونَ",
+    "persian": "آتش چهره آنها را می‌سوزاند، و آنان در آنجا ترش‌رویند."
+  },
+  {
+    "id": 23105,
+    "verseNumber": 105,
+    "verseKey": "23:105",
+    "arabic": "أَ لَمْ تَکُنْ آیاتی‏ تُتْلى‏ عَلَیْکُمْ فَکُنْتُمْ بِها تُکَذِّبُونَ",
+    "persian": "آیا آیات من بر شما خوانده نمی‌شد و [همواره‌] آن را مورد تکذیب قرار نمی‌دادید؟"
+  },
+  {
+    "id": 23106,
+    "verseNumber": 106,
+    "verseKey": "23:106",
+    "arabic": "قالُوا رَبَّنا غَلَبَتْ عَلَیْنا شِقْوَتُنا وَ کُنَّا قَوْماً ضالِّینَ",
+    "persian": "می‌گویند: «پروردگارا، شقاوت ما بر ما چیره شد و ما مردمی گمراه بودیم.»"
+  },
+  {
+    "id": 23107,
+    "verseNumber": 107,
+    "verseKey": "23:107",
+    "arabic": "رَبَّنا أَخْرِجْنا مِنْها فَإِنْ عُدْنا فَإِنَّا ظالِمُونَ",
+    "persian": "پروردگارا، ما را از اینجا بیرون بر، پس اگر باز هم [به بدی‌] برگشتیم، در آن صورت ستمگر خواهیم بود."
+  },
+  {
+    "id": 23108,
+    "verseNumber": 108,
+    "verseKey": "23:108",
+    "arabic": "قالَ اخْسَؤُا فیها وَ لا تُکَلِّمُونِ",
+    "persian": "می‌فرماید: «[بروید] در آن گم شوید و با من سخن مگویید.»"
+  },
+  {
+    "id": 23109,
+    "verseNumber": 109,
+    "verseKey": "23:109",
+    "arabic": "إِنَّهُ کانَ فَریقٌ مِنْ عِبادی یَقُولُونَ رَبَّنا آمَنَّا فَاغْفِرْ لَنا وَ ارْحَمْنا وَ أَنْتَ خَیْرُ الرَّاحِمینَ",
+    "persian": "در حقیقت، دسته‌ای از بندگان من بودند که می‌گفتند: «پروردگارا، ایمان آوردیم. بر ما ببخشای و به ما رحم کن [که‌] تو بهترینِ مهربانی.»"
+  },
+  {
+    "id": 23110,
+    "verseNumber": 110,
+    "verseKey": "23:110",
+    "arabic": "فَاتَّخَذْتُمُوهُمْ سِخْرِیًّا حَتَّى أَنْسَوْکُمْ ذِکْری وَ کُنْتُمْ مِنْهُمْ تَضْحَکُونَ",
+    "persian": "و شما آنان [=مؤمنان‌] را به ریشخند گرفتید، تا [با این کار] یاد مرا از خاطرتان بردند و شما بر آنان می‌خندیدید."
+  },
+  {
+    "id": 23111,
+    "verseNumber": 111,
+    "verseKey": "23:111",
+    "arabic": "إِنِّی جَزَیْتُهُمُ الْیَوْمَ بِما صَبَرُوا أَنَّهُمْ هُمُ الْفائِزُونَ",
+    "persian": "من [هم‌] امروز به [پاس‌] آنکه صبر کردند، بدانان پاداش دادم. آری، ایشانند که رستگارانند."
+  },
+  {
+    "id": 23112,
+    "verseNumber": 112,
+    "verseKey": "23:112",
+    "arabic": "قالَ کَمْ لَبِثْتُمْ فِی الْأَرْضِ عَدَدَ سِنینَ",
+    "persian": "می‌فرماید: «چه مدت به عدد سالها در زمین ماندید؟»"
+  },
+  {
+    "id": 23113,
+    "verseNumber": 113,
+    "verseKey": "23:113",
+    "arabic": "قالُوا لَبِثْنا یَوْماً أَوْ بَعْضَ یَوْمٍ فَسْئَلِ الْعادِّینَ",
+    "persian": "می‌گویند: «یک روز یا پاره‌ای از یک روز ماندیم. از شمارگران [خود] بپرس.»"
+  },
+  {
+    "id": 23114,
+    "verseNumber": 114,
+    "verseKey": "23:114",
+    "arabic": "قالَ إِنْ لَبِثْتُمْ إِلاَّ قَلیلاً لَوْ أَنَّکُمْ کُنْتُمْ تَعْلَمُونَ",
+    "persian": "می‌فرماید: «جز اندکی درنگ نکردید، کاش شما می‌دانستید.»"
+  },
+  {
+    "id": 23115,
+    "verseNumber": 115,
+    "verseKey": "23:115",
+    "arabic": "أَ فَحَسِبْتُمْ أَنَّما خَلَقْناکُمْ عَبَثاً وَ أَنَّکُمْ إِلَیْنا لا تُرْجَعُونَ",
+    "persian": "آیا پنداشتید که شما را بیهوده آفریده‌ایم و اینکه شما به سوی ما بازگردانیده نمی‌شوید؟"
+  },
+  {
+    "id": 23116,
+    "verseNumber": 116,
+    "verseKey": "23:116",
+    "arabic": "فَتَعالَى اللَّهُ الْمَلِکُ الْحَقُّ لا إِلهَ إِلاَّ هُوَ رَبُّ الْعَرْشِ الْکَریمِ",
+    "persian": "پس والاست خدا، فرمانروای برحق، خدایی جز او نیست. [اوست‌] پروردگار عرش گرانمایه."
+  },
+  {
+    "id": 23117,
+    "verseNumber": 117,
+    "verseKey": "23:117",
+    "arabic": "وَ مَنْ یَدْعُ مَعَ اللَّهِ إِلهاً آخَرَ لا بُرْهانَ لَهُ بِهِ فَإِنَّما حِسابُهُ عِنْدَ رَبِّهِ إِنَّهُ لا یُفْلِحُ الْکافِرُونَ",
+    "persian": "و هر کس با خدا معبود دیگری بخواند، برای آن برهانی نخواهد داشت، و حسابش فقط با پروردگارش می‌باشد، در حقیقت، کافران رستگار نمی‌شوند."
+  },
+  {
+    "id": 23118,
+    "verseNumber": 118,
+    "verseKey": "23:118",
+    "arabic": "وَ قُلْ رَبِّ اغْفِرْ وَ ارْحَمْ وَ أَنْتَ خَیْرُ الرَّاحِمینَ",
+    "persian": "و بگو: «پروردگارا، ببخشای و رحمت کن [که‌] تو بهترین بخشایندگانی."
+  }
+]

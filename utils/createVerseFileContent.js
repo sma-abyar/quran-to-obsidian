@@ -10,45 +10,42 @@ export default async function createVerseFileContent(
 ) {
   // TODO: fix sorting somehow - ?base on file.ctime
 
-  const footnotes = await getFootnotes(verse.english, quranFilePrefix);
+  // const footnotes = await getFootnotes(verse.persian, quranFilePrefix);
 
-  const footnoteText =
-    footnotes === null
-      ? ""
-      : footnotes.reduce((acc, footnote, i) => {
-          console.log(`Adding footnote ${i + 1}...`);
+  // const footnoteText =
+  //   footnotes === null
+  //     ? ""
+  //     : footnotes.reduce((acc, footnote, i) => {
+  //         console.log(`Adding footnote ${i + 1}...`);
 
-          return (acc += `[^${footnote.footnoteNum}]: ${footnote.text}\n`);
-        }, "");
+  //         return (acc += `[^${footnote.footnoteNum}]: ${footnote.text}\n`);
+  //       }, "");
 
-  const parsedTranslation = parseTranslationHtml(verse.english);
+  const parsedTranslation = parseTranslationHtml(verse.persian);
 
-  return `
----
-aliases: ["${verse.verseKey}", "Surah ${surah.name}, verse ${verse.verseNumber}", "Qur'an ${verse.verseKey}"]
+  return `---
+aliases: ["${verse.verseKey}", "سوره ${surah.name}, آیه ${verse.verseNumber}", "قرآن ${verse.verseKey}"]
 tags: Qvref
 ---
 
 parent:: [[${surahFileName}|${surah.name}]]
 
-> [!arabic]+ Surah ${surah.name}, Verse ${verse.verseNumber} (${verse.verseKey})
+> [!arabic]+ سوره ${surah.name}, آیه ${verse.verseNumber} (${verse.verseKey})
 > <span class="quran-arabic">${verse.arabic}</span>
 ^arabic
 
-> [!translation]+ Surah ${surah.name}, Verse ${verse.verseNumber} (${verse.verseKey}) - Translation
+> [!translation]+ سوره ${surah.name}, آیه ${verse.verseNumber} (${verse.verseKey}) - ترجمه
 > ${parsedTranslation}
 ^translation
 
-${footnoteText}
-
-## Related notes
+## یادداشت‌های مرتبط
 \`\`\`dataview
 LIST from [[${verseFileName}]]
 WHERE !contains(file.name, "${quranFilePrefix}")
 SORT file.name ASC
 \`\`\`
 
-### Related verses (footnote backlinks)
+### آیات مرتبط (footnote backlinks)
 \`\`\`dataview
 LIST FROM [[${verseFileName}]] AND #Qvref
 SORT file.name ASC

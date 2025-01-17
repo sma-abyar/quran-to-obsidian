@@ -1,1 +1,58 @@
-{"verses":[{"id":6099,"verseNumber":1,"verseKey":"95:1","arabic":"وَٱلتِّينِ وَٱلزَّيْتُونِ","english":"By the fig and the olive ˹of Jerusalem˺,"},{"id":6100,"verseNumber":2,"verseKey":"95:2","arabic":"وَطُورِ سِينِينَ","english":"and Mount Sinai,"},{"id":6101,"verseNumber":3,"verseKey":"95:3","arabic":"وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ","english":"and this secure city ˹of Mecca˺!<sup foot_note=77628>1</sup>"},{"id":6102,"verseNumber":4,"verseKey":"95:4","arabic":"لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ","english":"Indeed, We created humans in the best form."},{"id":6103,"verseNumber":5,"verseKey":"95:5","arabic":"ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ","english":"But We will reduce them to the lowest of the low ˹in Hell˺,"},{"id":6104,"verseNumber":6,"verseKey":"95:6","arabic":"إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ","english":"except those who believe and do good—they will have a never-ending reward."},{"id":6105,"verseNumber":7,"verseKey":"95:7","arabic":"فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ","english":"Now, what makes you deny the ˹final˺ Judgment?"},{"id":6106,"verseNumber":8,"verseKey":"95:8","arabic":"أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ","english":"Is Allah not the most just of all judges?"}]}
+[
+  {
+    "id": 95001,
+    "verseNumber": 1,
+    "verseKey": "95:1",
+    "arabic": "وَ التِّینِ وَ الزَّیْتُونِ",
+    "persian": "سوگند به [کوه‌] تین و زیتون،"
+  },
+  {
+    "id": 95002,
+    "verseNumber": 2,
+    "verseKey": "95:2",
+    "arabic": "وَ طُورِ سینینَ",
+    "persian": "و طور سینا،"
+  },
+  {
+    "id": 95003,
+    "verseNumber": 3,
+    "verseKey": "95:3",
+    "arabic": "وَ هذَا الْبَلَدِ الْأَمینِ",
+    "persian": "و این شهر امن [و امان‌]،"
+  },
+  {
+    "id": 95004,
+    "verseNumber": 4,
+    "verseKey": "95:4",
+    "arabic": "لَقَدْ خَلَقْنَا الْإِنْسانَ فی‏ أَحْسَنِ تَقْویمٍ",
+    "persian": "[که‌] براستی انسان را در نیکوترین اعتدال آفریدیم."
+  },
+  {
+    "id": 95005,
+    "verseNumber": 5,
+    "verseKey": "95:5",
+    "arabic": "ثُمَّ رَدَدْناهُ أَسْفَلَ سافِلینَ",
+    "persian": "سپس او را به پست‌ترین [مراتب‌] پستی بازگردانیدیم؛"
+  },
+  {
+    "id": 95006,
+    "verseNumber": 6,
+    "verseKey": "95:6",
+    "arabic": "إِلاَّ الَّذینَ آمَنُوا وَ عَمِلُوا الصَّالِحاتِ فَلَهُمْ أَجْرٌ غَیْرُ مَمْنُونٍ",
+    "persian": "مگر کسانی را که گرویده و کارهای شایسته کرده‌اند، که پاداشی بی‌منّت خواهند داشت."
+  },
+  {
+    "id": 95007,
+    "verseNumber": 7,
+    "verseKey": "95:7",
+    "arabic": "فَما یُکَذِّبُکَ بَعْدُ بِالدِّینِ",
+    "persian": "پس چه چیز، تو را بعد [از این‌] به تکذیب جزا وامی‌دارد؟"
+  },
+  {
+    "id": 95008,
+    "verseNumber": 8,
+    "verseKey": "95:8",
+    "arabic": "أَ لَیْسَ اللَّهُ بِأَحْکَمِ الْحاکِمینَ",
+    "persian": "آیا خدا نیکوترین داوران نیست؟"
+  }
+]

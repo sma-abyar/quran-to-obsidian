@@ -5,19 +5,18 @@ export default function createSurahFileContent(
 ) {
   // TODO: fix sorting somehow ?base on file.ctime
   console.log(`Generating surah ${surah.name} markdown content...`);
-  return `
----
-aliases: ["Surah ${surah.name}", "Chapter 2"]
+  return `---
+aliases: ["سوره ${surah.name}"]
 tags: Qsref
-verses: ${surah.totalVerses}
-revelationPlace: ${surah.revelationPlace}
-revelationOrder: ${surah.revelationOrder}
+// verses: ${surah.totalVerses}
+// revelationPlace: ${surah.revelationPlace}
+// revelationOrder: ${surah.revelationOrder}
 ---
 
 # Surah ${surah.name}
 
 > [!info]+ About Surah ${surah.name}
-> ${surah.shortExcerpt}
+// > ${surah.shortExcerpt}
 
 ## Related notes
 \`\`\`dataview

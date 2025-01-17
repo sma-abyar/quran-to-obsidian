@@ -1,1 +1,79 @@
-{"verses":[{"id":6147,"verseNumber":1,"verseKey":"100:1","arabic":" وَٱلْعَـٰدِيَـٰتِ ضَبْحًا","english":"’ By the galloping, panting horses,"},{"id":6148,"verseNumber":2,"verseKey":"100:2","arabic":"فَٱلْمُورِيَـٰتِ قَدْحًا","english":"striking sparks of fire ˹with their hoofs˺,"},{"id":6149,"verseNumber":3,"verseKey":"100:3","arabic":"فَٱلْمُغِيرَٰتِ صُبْحًا","english":"launching raids at dawn,"},{"id":6150,"verseNumber":4,"verseKey":"100:4","arabic":"فَأَثَرْنَ بِهِۦ نَقْعًا","english":"stirring up ˹clouds of˺ dust,"},{"id":6151,"verseNumber":5,"verseKey":"100:5","arabic":"فَوَسَطْنَ بِهِۦ جَمْعًا","english":"and penetrating into the heart of enemy lines!"},{"id":6152,"verseNumber":6,"verseKey":"100:6","arabic":"إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ","english":"Surely humankind is ungrateful to their Lord—"},{"id":6153,"verseNumber":7,"verseKey":"100:7","arabic":"وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ","english":"and they certainly attest to this—"},{"id":6154,"verseNumber":8,"verseKey":"100:8","arabic":"وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ","english":"and they are truly extreme in their love of ˹worldly˺ gains."},{"id":6155,"verseNumber":9,"verseKey":"100:9","arabic":"۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ","english":"Do they not know that when the contents of the graves will be spilled out,"},{"id":6156,"verseNumber":10,"verseKey":"100:10","arabic":"وَحُصِّلَ مَا فِى ٱلصُّدُورِ","english":"and the secrets of the hearts will be laid bare—"},{"id":6157,"verseNumber":11,"verseKey":"100:11","arabic":"إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ","english":"surely their Lord is All-Aware of them on that Day."}]}
+[
+  {
+    "id": 100001,
+    "verseNumber": 1,
+    "verseKey": "100:1",
+    "arabic": "وَ الْعادِیاتِ ضَبْحاً",
+    "persian": "سوگند به مادیانهائی که با همهمه تازانند و با سم‌[های‌] خود از سنگ آتش می‌جهانند!"
+  },
+  {
+    "id": 100002,
+    "verseNumber": 2,
+    "verseKey": "100:2",
+    "arabic": "فَالْمُورِیاتِ قَدْحاً",
+    "persian": "و برق [از سنگ‌] همی جهانند،"
+  },
+  {
+    "id": 100003,
+    "verseNumber": 3,
+    "verseKey": "100:3",
+    "arabic": "فَالْمُغیراتِ صُبْحاً",
+    "persian": "و صبحگاهان هجوم آرند،"
+  },
+  {
+    "id": 100004,
+    "verseNumber": 4,
+    "verseKey": "100:4",
+    "arabic": "فَأَثَرْنَ بِهِ نَقْعاً",
+    "persian": "و با آن [یورش‌]، گردی برانگیزند،"
+  },
+  {
+    "id": 100005,
+    "verseNumber": 5,
+    "verseKey": "100:5",
+    "arabic": "فَوَسَطْنَ بِهِ جَمْعاً",
+    "persian": "و بدان [هجوم‌]، در دل گروهی درآیند،"
+  },
+  {
+    "id": 100006,
+    "verseNumber": 6,
+    "verseKey": "100:6",
+    "arabic": "إِنَّ الْإِنْسانَ لِرَبِّهِ لَکَنُودٌ",
+    "persian": "که انسان نسبت به پروردگارش سخت ناسپاس است،"
+  },
+  {
+    "id": 100007,
+    "verseNumber": 7,
+    "verseKey": "100:7",
+    "arabic": "وَ إِنَّهُ عَلى‏ ذلِکَ لَشَهیدٌ",
+    "persian": "و او خود بر این [امر]، نیک گواه است."
+  },
+  {
+    "id": 100008,
+    "verseNumber": 8,
+    "verseKey": "100:8",
+    "arabic": "وَ إِنَّهُ لِحُبِّ الْخَیْرِ لَشَدیدٌ",
+    "persian": "و راستی او سخت شیفته مال است."
+  },
+  {
+    "id": 100009,
+    "verseNumber": 9,
+    "verseKey": "100:9",
+    "arabic": "أَ فَلا یَعْلَمُ إِذا بُعْثِرَ ما فِی الْقُبُورِ",
+    "persian": "مگر نمی‌داند که چون آنچه در گورهاست بیرون ریخته گردد،"
+  },
+  {
+    "id": 100010,
+    "verseNumber": 10,
+    "verseKey": "100:10",
+    "arabic": "وَ حُصِّلَ ما فِی الصُّدُورِ",
+    "persian": "و آنچه در سینه‌هاست فاش شود،"
+  },
+  {
+    "id": 100011,
+    "verseNumber": 11,
+    "verseKey": "100:11",
+    "arabic": "إِنَّ رَبَّهُمْ بِهِمْ یَوْمَئِذٍ لَخَبیرٌ",
+    "persian": "در چنان روزی پروردگارشان به [حال‌] ایشان نیک آگاه است؟"
+  }
+]

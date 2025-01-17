@@ -1,1 +1,184 @@
-{"verses":[{"id":5968,"verseNumber":1,"verseKey":"88:1","arabic":" هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ","english":"Has the news of the Overwhelming Event reached you ˹O Prophet˺?"},{"id":5969,"verseNumber":2,"verseKey":"88:2","arabic":"وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ","english":"On that Day ˹some˺ faces will be downcast,"},{"id":5970,"verseNumber":3,"verseKey":"88:3","arabic":"عَامِلَةٌ نَّاصِبَةٌ","english":"˹totally˺ overburdened, exhausted,"},{"id":5971,"verseNumber":4,"verseKey":"88:4","arabic":"تَصْلَىٰ نَارًا حَامِيَةً","english":"burning in a scorching Fire,"},{"id":5972,"verseNumber":5,"verseKey":"88:5","arabic":"تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ","english":"left to drink from a scalding spring."},{"id":5973,"verseNumber":6,"verseKey":"88:6","arabic":"لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ","english":"They will have no food except a foul, thorny shrub,"},{"id":5974,"verseNumber":7,"verseKey":"88:7","arabic":"لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ","english":"neither nourishing nor satisfying hunger."},{"id":5975,"verseNumber":8,"verseKey":"88:8","arabic":"وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ","english":"On that Day ˹other˺ faces will be glowing with bliss,"},{"id":5976,"verseNumber":9,"verseKey":"88:9","arabic":"لِّسَعْيِهَا رَاضِيَةٌ","english":"˹fully˺ pleased with their striving,"},{"id":5977,"verseNumber":10,"verseKey":"88:10","arabic":"فِى جَنَّةٍ عَالِيَةٍ","english":"in an elevated Garden,"},{"id":5978,"verseNumber":11,"verseKey":"88:11","arabic":"لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً","english":"where no idle talk will be heard."},{"id":5979,"verseNumber":12,"verseKey":"88:12","arabic":"فِيهَا عَيْنٌ جَارِيَةٌ","english":"In it will be a running spring,"},{"id":5980,"verseNumber":13,"verseKey":"88:13","arabic":"فِيهَا سُرُرٌ مَّرْفُوعَةٌ","english":"along with thrones raised high,"},{"id":5981,"verseNumber":14,"verseKey":"88:14","arabic":"وَأَكْوَابٌ مَّوْضُوعَةٌ","english":"and cups set at hand,"},{"id":5982,"verseNumber":15,"verseKey":"88:15","arabic":"وَنَمَارِقُ مَصْفُوفَةٌ","english":"and ˹fine˺ cushions lined up,"},{"id":5983,"verseNumber":16,"verseKey":"88:16","arabic":"وَزَرَابِىُّ مَبْثُوثَةٌ","english":"and ˹splendid˺ carpets spread out."},{"id":5984,"verseNumber":17,"verseKey":"88:17","arabic":"أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ","english":"Do they not ever reflect on camels—how they were ˹masterfully˺ created;<sup foot_note=77614>1</sup>"},{"id":5985,"verseNumber":18,"verseKey":"88:18","arabic":"وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ","english":"and the sky—how it was raised ˹high˺;"},{"id":5986,"verseNumber":19,"verseKey":"88:19","arabic":"وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ","english":"and the mountains—how they were firmly set up;"},{"id":5987,"verseNumber":20,"verseKey":"88:20","arabic":"وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ","english":"and the earth—how it was levelled out?"},{"id":5988,"verseNumber":21,"verseKey":"88:21","arabic":"فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ","english":"So, ˹continue to˺ remind ˹all, O  Prophet˺, for your duty is only to remind."},{"id":5989,"verseNumber":22,"verseKey":"88:22","arabic":"لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ","english":"You are not ˹there˺ to compel them ˹to believe˺."},{"id":5990,"verseNumber":23,"verseKey":"88:23","arabic":"إِلَّا مَن تَوَلَّىٰ وَكَفَرَ","english":"But whoever turns away, persisting in disbelief,"},{"id":5991,"verseNumber":24,"verseKey":"88:24","arabic":"فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ","english":"then Allah will inflict upon them the major punishment.<sup foot_note=77615>1</sup>"},{"id":5992,"verseNumber":25,"verseKey":"88:25","arabic":"إِنَّ إِلَيْنَآ إِيَابَهُمْ","english":"Surely to Us is their return,"},{"id":5993,"verseNumber":26,"verseKey":"88:26","arabic":"ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم","english":"then surely with Us is their reckoning."}]}
+[
+  {
+    "id": 88001,
+    "verseNumber": 1,
+    "verseKey": "88:1",
+    "arabic": "هَلْ أَتاکَ حَدیثُ الْغاشِیَةِ",
+    "persian": "آیا خبر «غاشیه» به تو رسیده است؟"
+  },
+  {
+    "id": 88002,
+    "verseNumber": 2,
+    "verseKey": "88:2",
+    "arabic": "وُجُوهٌ یَوْمَئِذٍ خاشِعَةٌ",
+    "persian": "در آن روز، چهره‌هایی زبونند،"
+  },
+  {
+    "id": 88003,
+    "verseNumber": 3,
+    "verseKey": "88:3",
+    "arabic": "عامِلَةٌ ناصِبَةٌ",
+    "persian": "که تلاش کرده، رنج [بیهوده‌] برده‌اند."
+  },
+  {
+    "id": 88004,
+    "verseNumber": 4,
+    "verseKey": "88:4",
+    "arabic": "تَصْلى‏ ناراً حامِیَةً",
+    "persian": "[ناچار] در آتشی سوزان درآیند."
+  },
+  {
+    "id": 88005,
+    "verseNumber": 5,
+    "verseKey": "88:5",
+    "arabic": "تُسْقى‏ مِنْ عَیْنٍ آنِیَةٍ",
+    "persian": "از چشمه‌ای داغ نوشانیده شوند."
+  },
+  {
+    "id": 88006,
+    "verseNumber": 6,
+    "verseKey": "88:6",
+    "arabic": "لَیْسَ لَهُمْ طَعامٌ إِلاَّ مِنْ ضَریعٍ",
+    "persian": "خوراکی جز خار خشک ندارند،"
+  },
+  {
+    "id": 88007,
+    "verseNumber": 7,
+    "verseKey": "88:7",
+    "arabic": "لا یُسْمِنُ وَ لا یُغْنی‏ مِنْ جُوعٍ",
+    "persian": "[که‌] نه فربه کند، و نه گرسنگی را باز دارد."
+  },
+  {
+    "id": 88008,
+    "verseNumber": 8,
+    "verseKey": "88:8",
+    "arabic": "وُجُوهٌ یَوْمَئِذٍ ناعِمَةٌ",
+    "persian": "در آن روز، چهره‌هایی شادابند."
+  },
+  {
+    "id": 88009,
+    "verseNumber": 9,
+    "verseKey": "88:9",
+    "arabic": "لِسَعْیِها راضِیَةٌ",
+    "persian": "از کوشش خود خشنودند."
+  },
+  {
+    "id": 88010,
+    "verseNumber": 10,
+    "verseKey": "88:10",
+    "arabic": "فی‏ جَنَّةٍ عالِیَةٍ",
+    "persian": "در بهشت برین‌اند."
+  },
+  {
+    "id": 88011,
+    "verseNumber": 11,
+    "verseKey": "88:11",
+    "arabic": "لا تَسْمَعُ فیها لاغِیَةً",
+    "persian": "سخن بیهوده‌ای در آنجا نشنوند."
+  },
+  {
+    "id": 88012,
+    "verseNumber": 12,
+    "verseKey": "88:12",
+    "arabic": "فیها عَیْنٌ جارِیَةٌ",
+    "persian": "در آن، چشمه‌ای روان باشد."
+  },
+  {
+    "id": 88013,
+    "verseNumber": 13,
+    "verseKey": "88:13",
+    "arabic": "فیها سُرُرٌ مَرْفُوعَةٌ",
+    "persian": "تختهایی بلند در آنجاست."
+  },
+  {
+    "id": 88014,
+    "verseNumber": 14,
+    "verseKey": "88:14",
+    "arabic": "وَ أَکْوابٌ مَوْضُوعَةٌ",
+    "persian": "و قدحهایی نهاده شده."
+  },
+  {
+    "id": 88015,
+    "verseNumber": 15,
+    "verseKey": "88:15",
+    "arabic": "وَ نَمارِقُ مَصْفُوفَةٌ",
+    "persian": "و بالشهایی پهلوی هم [چیده‌]."
+  },
+  {
+    "id": 88016,
+    "verseNumber": 16,
+    "verseKey": "88:16",
+    "arabic": "وَ زَرابِیُّ مَبْثُوثَةٌ",
+    "persian": "و فرشهایی [زربفت‌] گسترده."
+  },
+  {
+    "id": 88017,
+    "verseNumber": 17,
+    "verseKey": "88:17",
+    "arabic": "أَ فَلا یَنْظُرُونَ إِلَى الْإِبِلِ کَیْفَ خُلِقَتْ",
+    "persian": "آیا به شتر نمی‌نگرند که چگونه آفریده شده؟"
+  },
+  {
+    "id": 88018,
+    "verseNumber": 18,
+    "verseKey": "88:18",
+    "arabic": "وَ إِلَى السَّماءِ کَیْفَ رُفِعَتْ",
+    "persian": "و به آسمان که چگونه برافراشته شده؟"
+  },
+  {
+    "id": 88019,
+    "verseNumber": 19,
+    "verseKey": "88:19",
+    "arabic": "وَ إِلَى الْجِبالِ کَیْفَ نُصِبَتْ",
+    "persian": "و به کوه‌ها که چگونه برپا داشته شده؟"
+  },
+  {
+    "id": 88020,
+    "verseNumber": 20,
+    "verseKey": "88:20",
+    "arabic": "وَ إِلَى الْأَرْضِ کَیْفَ سُطِحَتْ",
+    "persian": "و به زمین که چگونه گسترده شده است؟"
+  },
+  {
+    "id": 88021,
+    "verseNumber": 21,
+    "verseKey": "88:21",
+    "arabic": "فَذَکِّرْ إِنَّما أَنْتَ مُذَکِّرٌ",
+    "persian": "پس تذکر ده که تو تنها تذکردهنده‌ای."
+  },
+  {
+    "id": 88022,
+    "verseNumber": 22,
+    "verseKey": "88:22",
+    "arabic": "لَسْتَ عَلَیْهِمْ بِمُصَیْطِرٍ",
+    "persian": "بر آنان تسلّطی نداری،"
+  },
+  {
+    "id": 88023,
+    "verseNumber": 23,
+    "verseKey": "88:23",
+    "arabic": "إِلاَّ مَنْ تَوَلَّى وَ کَفَرَ",
+    "persian": "مگر کسی که روی بگرداند و کفر ورزد،"
+  },
+  {
+    "id": 88024,
+    "verseNumber": 24,
+    "verseKey": "88:24",
+    "arabic": "فَیُعَذِّبُهُ اللَّهُ الْعَذابَ الْأَکْبَرَ",
+    "persian": "که خدا او را به آن عذاب بزرگتر عذاب کند."
+  },
+  {
+    "id": 88025,
+    "verseNumber": 25,
+    "verseKey": "88:25",
+    "arabic": "إِنَّ إِلَیْنا إِیابَهُمْ",
+    "persian": "در حقیقت، بازگشت آنان به سوی ماست،"
+  },
+  {
+    "id": 88026,
+    "verseNumber": 26,
+    "verseKey": "88:26",
+    "arabic": "ثُمَّ إِنَّ عَلَیْنا حِسابَهُمْ",
+    "persian": "آنگاه حساب [خواستن از] آنان به عهده ماست."
+  }
+]

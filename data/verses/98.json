@@ -1,1 +1,58 @@
-{"verses":[{"id":6131,"verseNumber":1,"verseKey":"98:1","arabic":" لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ","english":"The disbelievers from the People of the Book and the polytheists were not going to desist ˹from disbelief˺ until the clear proof came to them:"},{"id":6132,"verseNumber":2,"verseKey":"98:2","arabic":"رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً","english":"a messenger from Allah, reciting scrolls of ˹utmost˺ purity,"},{"id":6133,"verseNumber":3,"verseKey":"98:3","arabic":"فِيهَا كُتُبٌ قَيِّمَةٌ","english":"containing upright commandments."},{"id":6134,"verseNumber":4,"verseKey":"98:4","arabic":"وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ","english":"It was not until this clear proof came to the People of the Book that they became divided ˹about his prophethood˺—"},{"id":6135,"verseNumber":5,"verseKey":"98:5","arabic":"وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ","english":"even though they were only commanded to worship Allah ˹alone˺ with sincere devotion to Him in all uprightness, establish prayer, and pay alms-tax. That is the upright Way."},{"id":6136,"verseNumber":6,"verseKey":"98:6","arabic":"إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَـٰلِدِينَ فِيهَآ ۚ أُو۟لَـٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ","english":"Indeed, those who disbelieve from the People of the Book and the polytheists will be in the Fire of Hell, to stay there forever. They are the worst of ˹all˺ beings."},{"id":6137,"verseNumber":7,"verseKey":"98:7","arabic":"إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ","english":"Indeed, those who believe and do good—they are the best of ˹all˺ beings."},{"id":6138,"verseNumber":8,"verseKey":"98:8","arabic":"جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّـٰتُ عَدْنٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ","english":"Their reward with their Lord will be Gardens of Eternity, under which rivers flow, to stay there for ever and ever. Allah is pleased with them and they are pleased with Him. This is ˹only˺ for those in awe of their Lord."}]}
+[
+  {
+    "id": 98001,
+    "verseNumber": 1,
+    "verseKey": "98:1",
+    "arabic": "لَمْ یَکُنِ الَّذینَ کَفَرُوا مِنْ أَهْلِ الْکِتابِ وَ الْمُشْرِکینَ مُنْفَکِّینَ حَتَّى تَأْتِیَهُمُ الْبَیِّنَةُ",
+    "persian": "کافران اهل کتاب و مشرکان، دست‌بردار نبودند تا دلیلی آشکار بر ایشان آید:"
+  },
+  {
+    "id": 98002,
+    "verseNumber": 2,
+    "verseKey": "98:2",
+    "arabic": "رَسُولٌ مِنَ اللَّهِ یَتْلُوا صُحُفاً مُطَهَّرَةً",
+    "persian": "فرستاده‌ای از جانب خدا که [بر آنان‌] صحیفه‌هایی پاک را تلاوت کند،"
+  },
+  {
+    "id": 98003,
+    "verseNumber": 3,
+    "verseKey": "98:3",
+    "arabic": "فیها کُتُبٌ قَیِّمَةٌ",
+    "persian": "که در آنها نوشته‌های استوار است."
+  },
+  {
+    "id": 98004,
+    "verseNumber": 4,
+    "verseKey": "98:4",
+    "arabic": "وَ ما تَفَرَّقَ الَّذینَ أُوتُوا الْکِتابَ إِلاَّ مِنْ بَعْدِ ما جاءَتْهُمُ الْبَیِّنَةُ",
+    "persian": "و اهل کتاب دستخوش پراکندگی نشدند، مگر پس از آنکه برهان آشکار برای آنان آمد."
+  },
+  {
+    "id": 98005,
+    "verseNumber": 5,
+    "verseKey": "98:5",
+    "arabic": "وَ ما أُمِرُوا إِلاَّ لِیَعْبُدُوا اللَّهَ مُخْلِصینَ لَهُ الدِّینَ حُنَفاءَ وَ یُقیمُوا الصَّلاةَ وَ یُؤْتُوا الزَّکاةَ وَ ذلِکَ دینُ الْقَیِّمَةِ",
+    "persian": "و فرمان نیافته بودند جز اینکه خدا را بپرستند، و در حالی که به توحید گراییده‌اند، دین [خود] را برای او خالص گردانند، و نماز برپا دارند و زکات بدهند، و دین [ثابت و] پایدار همین است."
+  },
+  {
+    "id": 98006,
+    "verseNumber": 6,
+    "verseKey": "98:6",
+    "arabic": "إِنَّ الَّذینَ کَفَرُوا مِنْ أَهْلِ الْکِتابِ وَ الْمُشْرِکینَ فی‏ نارِ جَهَنَّمَ خالِدینَ فیها أُولئِکَ هُمْ شَرُّ الْبَرِیَّةِ",
+    "persian": "کسانی از اهل کتاب که کفر ورزیده‌اند و [نیز] مشرکان در آتش دوزخند، [و] در آن همواره می‌مانند؛ اینانند که بدترین آفریدگانند."
+  },
+  {
+    "id": 98007,
+    "verseNumber": 7,
+    "verseKey": "98:7",
+    "arabic": "إِنَّ الَّذینَ آمَنُوا وَ عَمِلُوا الصَّالِحاتِ أُولئِکَ هُمْ خَیْرُ الْبَرِیَّةِ",
+    "persian": "در حقیقت کسانی که گرویده و کارهای شایسته کرده‌اند، آنانند که بهترین آفریدگانند."
+  },
+  {
+    "id": 98008,
+    "verseNumber": 8,
+    "verseKey": "98:8",
+    "arabic": "جَزاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْری مِنْ تَحْتِهَا الْأَنْهارُ خالِدینَ فیها أَبَداً رَضِیَ اللَّهُ عَنْهُمْ وَ رَضُوا عَنْهُ ذلِکَ لِمَنْ خَشِیَ رَبَّهُ",
+    "persian": "پاداش آنان نزد پروردگارشان باغهای همیشگی است که از زیر [درختان‌] آن، نهرها روان است، جاودانه در آن «همی» مانند؛ خدا از آنان خشنود است و [آنان نیز] از او خشنود، این [پاداش‌] برای کسی است که از پروردگارش بترسد."
+  }
+]

@@ -1,79 +1,65 @@
 import fs from "fs-extra";
-// import promptSync from "prompt-sync";
-import { createSurahsJson } from "./utils/createSurahData.js";
-import createSurahFileContent from "./utils/createSurahFileContent.js";
-import { createVersesJson } from "./utils/createVersesData.js";
-import createVerseFileContent from "./utils/createVerseFileContent.js";
+import axios from "axios";
 
-// const prompt = promptSync();
-// const vaultPath = prompt("Enter the full directory to your vault root: ");
-// const vaultPathQuran = `${vaultPath}/Quran`
+const BASE_API_URL = "https://quran.ebadollah.com/api/quran";
+const OUTPUT_DIR = "./data/verses";
+const TRANSLATOR = "fa_fooladvand";
 
-const vaultPathQuran = "../Quran";
-const quranFilePrefix = "q - ";
-
-if (!fs.pathExistsSync("./data/surahData.json")) {
-  console.log("Creating Surah data...");
-
-  await createSurahsJson();
-
-  console.log("✔ Created Surah Data");
+// Function to fetch surah data from the API
+async function fetchSurah(suraNo) {
+  try {
+    const response = await axios.post(`${BASE_API_URL}/getSura`, {
+      suraNo,
+      options: { translators: [TRANSLATOR] },
+    });
+    return response.data;
+  } catch (error) {
+    console.error(`Error fetching surah ${suraNo}:`, error);
+    throw error;
+  }
 }
 
-const { surahs } = fs.readJsonSync("./data/surahData.json");
-
-(function quranToObsidian() {
-  for (const surah of surahs) {
-    const surahFolderPath = `${vaultPathQuran}/${surah.id} - ${surah.name}`;
-
-    (async function createFiles() {
-      try {
-        // create folder for current surah
-        await fs.ensureDir(surahFolderPath);
-        console.log(`Created folder for surah ${surah.name}`);
-
-        // create md file for current surah
-        const surahFileName = `${quranFilePrefix}${surah.name} (${surah.id})`;
-        const surahFilePath = `${surahFolderPath}/${surahFileName}.md`;
-        const surahFileContent = createSurahFileContent(
-          surah,
-          surahFileName,
-          quranFilePrefix
-        );
-        console.log(`Generated markdown for ${surah.name} ✅`);
-
-        await fs.outputFile(surahFilePath, surahFileContent);
-        console.log(`Created surah file for ${surah.name}`);
-
-        // check to see if verses data for current surah exists
-        if (!fs.pathExistsSync(`./data/verses/${surah.id}.json`)) {
-          createVersesJson(surah.id);
-        }
-
-        const { verses } = fs.readJsonSync(`./data/verses/${surah.id}.json`);
-
-        // create file for each ayah of current surah
-        for (const verse of verses) {
-          const verseFileName = `${quranFilePrefix}${surah.id} - ${verse.verseNumber}`;
-          const verseFilePath = `${surahFolderPath}/${verseFileName}.md`;
-
-          console.log(`Generating markdown for verse ${verse.verseKey}`);
-          const verseFileContent = await createVerseFileContent(
-            verse,
-            verseFileName,
-            surah,
-            surahFileName,
-            quranFilePrefix
-          );
-          console.log(`Verse ${verse.verseKey} markdown generated ✅`);
-
-          await fs.outputFile(verseFilePath, verseFileContent);
-          console.log(`✅CREATED ${verse.verseKey}.md✅`);
-        }
-      } catch (err) {
-        console.error(err);
-      }
-    })();
+// Function to save surah data to a JSON file
+async function saveSurahToFile(suraNo, verses) {
+  const filePath = `${OUTPUT_DIR}/${suraNo}.json`;
+  try {
+    await fs.outputJson(filePath, verses, { spaces: 2 });
+    console.log(`✅ Saved surah ${suraNo} to ${filePath}`);
+  } catch (error) {
+    console.error(`Error saving surah ${suraNo}:`, error);
+    throw error;
   }
-  console.log("☪ Qur'an to Obsidian is complete ☪. ✅✅✅");
-})();
+}
+
+// Main function to process all surahs
+async function generateQuranJson() {
+  try {
+    // Ensure output directory exists
+    await fs.ensureDir(OUTPUT_DIR);
+
+    for (let suraNo = 1; suraNo <= 114; suraNo++) {
+      console.log(`Fetching surah ${suraNo}...`);
+      const surahData = await fetchSurah(suraNo);
+      console.log(`Response for surah ${suraNo}:`, JSON.stringify(surahData, null, 2));
+
+      // Map ayat to the required structure
+      const verses = surahData.ayat.map((verse) => ({
+        id: verse.AyaId,
+        verseNumber: verse.AyaNo,
+        verseKey: `${verse.SuraNo}:${verse.AyaNo}`,
+        arabic: verse.Arabic,
+        persian: verse.translations.find((t) => t.TranslationName === TRANSLATOR)?.Text || "",
+      }));
+
+      // Save to JSON file
+      await saveSurahToFile(suraNo, verses);
+    }
+
+    console.log("✅ All surahs have been processed and saved.");
+  } catch (error) {
+    console.error("❌ An error occurred:", error);
+  }
+}
+
+// Run the script
+generateQuranJson();

@@ -1,1 +1,121 @@
-{"verses":[{"id":5932,"verseNumber":1,"verseKey":"86:1","arabic":" وَٱلسَّمَآءِ وَٱلطَّارِقِ","english":"By the heaven and the nightly star!"},{"id":5933,"verseNumber":2,"verseKey":"86:2","arabic":"وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ","english":"And what will make you realize what the nightly star is?"},{"id":5934,"verseNumber":3,"verseKey":"86:3","arabic":"ٱلنَّجْمُ ٱلثَّاقِبُ","english":"˹It is˺ the star of piercing brightness."},{"id":5935,"verseNumber":4,"verseKey":"86:4","arabic":"إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ","english":"There is no soul without a vigilant angel ˹recording everything˺."},{"id":5936,"verseNumber":5,"verseKey":"86:5","arabic":"فَلْيَنظُرِ ٱلْإِنسَـٰنُ مِمَّ خُلِقَ","english":"Let people then consider what they were created from!"},{"id":5937,"verseNumber":6,"verseKey":"86:6","arabic":"خُلِقَ مِن مَّآءٍ دَافِقٍ","english":"˹They were˺ created from a spurting fluid,"},{"id":5938,"verseNumber":7,"verseKey":"86:7","arabic":"يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ","english":"stemming from between the backbone and the ribcage.<sup foot_note=77611>1</sup>"},{"id":5939,"verseNumber":8,"verseKey":"86:8","arabic":"إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌ","english":"Surely He is fully capable of bringing them back ˹to life˺"},{"id":5940,"verseNumber":9,"verseKey":"86:9","arabic":"يَوْمَ تُبْلَى ٱلسَّرَآئِرُ","english":"on the Day all secrets will be disclosed."},{"id":5941,"verseNumber":10,"verseKey":"86:10","arabic":"فَمَا لَهُۥ مِن قُوَّةٍ وَلَا نَاصِرٍ","english":"Then one will have neither power nor ˹any˺ helper."},{"id":5942,"verseNumber":11,"verseKey":"86:11","arabic":"وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ","english":"By the sky with its recurring cycles,"},{"id":5943,"verseNumber":12,"verseKey":"86:12","arabic":"وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ","english":"and the earth with its sprouting plants!"},{"id":5944,"verseNumber":13,"verseKey":"86:13","arabic":"إِنَّهُۥ لَقَوْلٌ فَصْلٌ","english":"Surely this ˹Quran˺ is a decisive word,"},{"id":5945,"verseNumber":14,"verseKey":"86:14","arabic":"وَمَا هُوَ بِٱلْهَزْلِ","english":"and is not to be taken lightly."},{"id":5946,"verseNumber":15,"verseKey":"86:15","arabic":"إِنَّهُمْ يَكِيدُونَ كَيْدًا","english":"They are certainly devising ˹evil˺ plans,"},{"id":5947,"verseNumber":16,"verseKey":"86:16","arabic":"وَأَكِيدُ كَيْدًا","english":"but I too am planning."},{"id":5948,"verseNumber":17,"verseKey":"86:17","arabic":"فَمَهِّلِ ٱلْكَـٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا","english":"So bear with the disbelievers ˹O Prophet˺. Let them be for ˹just˺ a little while."}]}
+[
+  {
+    "id": 86001,
+    "verseNumber": 1,
+    "verseKey": "86:1",
+    "arabic": "وَ السَّماءِ وَ الطَّارِقِ",
+    "persian": "سوگند به آسمان و آن اختر شبگرد."
+  },
+  {
+    "id": 86002,
+    "verseNumber": 2,
+    "verseKey": "86:2",
+    "arabic": "وَ ما أَدْراکَ مَا الطَّارِقُ",
+    "persian": "و تو چه دانی که اختر شبگرد چیست؟"
+  },
+  {
+    "id": 86003,
+    "verseNumber": 3,
+    "verseKey": "86:3",
+    "arabic": "النَّجْمُ الثَّاقِبُ",
+    "persian": "آن اختر فروزان."
+  },
+  {
+    "id": 86004,
+    "verseNumber": 4,
+    "verseKey": "86:4",
+    "arabic": "إِنْ کُلُّ نَفْسٍ لَمَّا عَلَیْها حافِظٌ",
+    "persian": "هیچ کس نیست مگر اینکه نگاهبانی بر او [گماشته شده‌] است."
+  },
+  {
+    "id": 86005,
+    "verseNumber": 5,
+    "verseKey": "86:5",
+    "arabic": "فَلْیَنْظُرِ الْإِنْسانُ مِمَّ خُلِقَ",
+    "persian": "پس انسان باید بنگرد که از چه آفریده شده است؟"
+  },
+  {
+    "id": 86006,
+    "verseNumber": 6,
+    "verseKey": "86:6",
+    "arabic": "خُلِقَ مِنْ ماءٍ دافِقٍ",
+    "persian": "از آب جهنده‌ای خلق شده،"
+  },
+  {
+    "id": 86007,
+    "verseNumber": 7,
+    "verseKey": "86:7",
+    "arabic": "یَخْرُجُ مِنْ بَیْنِ الصُّلْبِ وَ التَّرائِبِ",
+    "persian": "[که‌] از صلب مرد و میان استخوانهای سینه زن بیرون می‌آید."
+  },
+  {
+    "id": 86008,
+    "verseNumber": 8,
+    "verseKey": "86:8",
+    "arabic": "إِنَّهُ عَلى‏ رَجْعِهِ لَقادِرٌ",
+    "persian": "در حقیقت، او [= خدا] بر بازگردانیدن وی بخوبی تواناست."
+  },
+  {
+    "id": 86009,
+    "verseNumber": 9,
+    "verseKey": "86:9",
+    "arabic": "یَوْمَ تُبْلَى السَّرائِرُ",
+    "persian": "آن روز که رازها [همه‌] فاش شود،"
+  },
+  {
+    "id": 86010,
+    "verseNumber": 10,
+    "verseKey": "86:10",
+    "arabic": "فَما لَهُ مِنْ قُوَّةٍ وَ لا ناصِرٍ",
+    "persian": "پس او را نه نیرویی ماند و نه یاری."
+  },
+  {
+    "id": 86011,
+    "verseNumber": 11,
+    "verseKey": "86:11",
+    "arabic": "وَ السَّماءِ ذاتِ الرَّجْعِ",
+    "persian": "سوگند به آسمان بارش‌انگیز،"
+  },
+  {
+    "id": 86012,
+    "verseNumber": 12,
+    "verseKey": "86:12",
+    "arabic": "وَ الْأَرْضِ ذاتِ الصَّدْعِ",
+    "persian": "سوگند به زمین شکافدار [آماده کشت‌]،"
+  },
+  {
+    "id": 86013,
+    "verseNumber": 13,
+    "verseKey": "86:13",
+    "arabic": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+    "persian": "[که‌] در حقیقت، قرآن گفتاری قاطع و روشنگر است؛"
+  },
+  {
+    "id": 86014,
+    "verseNumber": 14,
+    "verseKey": "86:14",
+    "arabic": "وَ ما هُوَ بِالْهَزْلِ",
+    "persian": "و آن شوخی نیست."
+  },
+  {
+    "id": 86015,
+    "verseNumber": 15,
+    "verseKey": "86:15",
+    "arabic": "إِنَّهُمْ یَکیدُونَ کَیْداً",
+    "persian": "آنان دست به نیرنگ می‌زنند."
+  },
+  {
+    "id": 86016,
+    "verseNumber": 16,
+    "verseKey": "86:16",
+    "arabic": "وَ أَکیدُ کَیْداً",
+    "persian": "و [من نیز] دست به نیرنگ می‌زنم."
+  },
+  {
+    "id": 86017,
+    "verseNumber": 17,
+    "verseKey": "86:17",
+    "arabic": "فَمَهِّلِ الْکافِرینَ أَمْهِلْهُمْ رُوَیْداً",
+    "persian": "پس کافران را مهلت ده، و کمی آنان را به حال خود واگذار."
+  }
+]
